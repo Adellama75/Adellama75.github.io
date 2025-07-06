@@ -5,8 +5,8 @@ title: Favourite Articles
 
 ### **Empirical**
 
-- [How Much Better Can Things Get? - Our World in Data](https://ourworldindata.org/much-better-awful-can-be-better) – *Our World in Data*  
-- [How long does it take to go from science to technology? - New Things Under the Sun](https://www.newthingsunderthesun.com/pub/6nunnxqx/release/11) – *New Things Under the Sun*  
+- [How Much Better Can Things Get? - Our World in Data](https://ourworldindata.org/much-better-awful-can-be-better)
+- [How long does it take to go from science to technology? - New Things Under the Sun](https://www.newthingsunderthesun.com/pub/6nunnxqx/release/11)
 - [Structure and Interpretation of the Chinese Economy – Yuxi Liu](https://yuxi-liu-wired.github.io/essays/posts/structure-interpretation-chinese-economy/)
 
 ---
@@ -23,7 +23,7 @@ title: Favourite Articles
 ### **Personal**
 
 - [Personality: The Body in Society – Melting Asphalt](https://meltingasphalt.com/personality-the-body-in-society/)  
-- [The Talk: A Brief Explainer of Sexual Ethics – Malmesbury Substack](https://malmesbury.substack.com/p/the-talk-a-brief-explainer-of-sexual)  
+- [The Talk: A Brief Explainer of Sexual Ethics – Telescopic Turnip](https://malmesbury.substack.com/p/the-talk-a-brief-explainer-of-sexual)  
 - [The Categories Were Made For Man, Not Man For The Categories – Slate Star Codex](https://slatestarcodex.com/2014/11/21/the-categories-were-made-for-man-not-man-for-the-categories/)
 
 ---
