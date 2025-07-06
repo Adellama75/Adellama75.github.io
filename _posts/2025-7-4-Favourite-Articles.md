@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Favourite Articles
+title: Canonical Articles
 ---
 
-Takes I find to be reasonable and informative. Whether you find them to be these things depends on your intellectual starting point!
+Takes I find to be reasonable and informative, that I think more people should know about. Whether you find them to be these things depends on your intellectual starting point!
 
 ### **Empirical**
 - [The world is awful. The world is much better. The world can be much better.](https://ourworldindata.org/much-better-awful-can-be-better) – Our World in Data  
