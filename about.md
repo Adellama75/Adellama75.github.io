@@ -1,16 +1,16 @@
 ---
 layout: page
-title: 'About me,,'
+title: About me
 permalink: /about/
 ---
 
-Hi! My name is Ada (she/her).
+Hi! My name is Ada.
 
-I'm currently a undergraduate student studying Chemical Engineering at Imperial College London, who is on a gap year.
+I'm currently a undergraduate student studying Chemical Engineering at Imperial College London, on a gap year.
 
 I'm a fan of industrial policy, effective altruism, open-source shenanigans, and making food from Southern China (my hometown).
 
 
 ### Find me
 
-reach me on twitter [@adellama_](x.com/adellama), browse through links I collect for you like a magpie collecting shiny items on substack [Ada's Blog](https://adaptivegood.substack.com/), add me on discord @adellama_ or email me at [adelaide75.23@gmail.com](mailto:adelaide75.23@gmail.com). i am always happy to chat! <3
+Reach me on [Twitter (X)](x.com/adellama), browse through links I collect for you on [Substack](https://adaptivegood.substack.com/), or email me at [adelaide75.23@gmail.com](mailto:adelaide75.23@gmail.com). I am always happy to meet new people, the upside is high!
