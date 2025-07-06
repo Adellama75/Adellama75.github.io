@@ -23,13 +23,27 @@ title: Favourite Articles
 ### **Personal**
 
 - [Personality: The Body in Society – Melting Asphalt](https://meltingasphalt.com/personality-the-body-in-society/)  
-- [The Talk: A Brief Explainer of Sexual Ethics – Telescopic Turnip](https://malmesbury.substack.com/p/the-talk-a-brief-explainer-of-sexual)  
+- [The Talk: A Brief Explainer of Sexual Dimorphism – Telescopic Turnip](https://malmesbury.substack.com/p/the-talk-a-brief-explainer-of-sexual)  
 - [The Categories Were Made For Man, Not Man For The Categories – Slate Star Codex](https://slatestarcodex.com/2014/11/21/the-categories-were-made-for-man-not-man-for-the-categories/)
 
 ---
 
-### **Effective Altruism**
+### **Political**
 
 - [Fear and Loathing at Effective Altruism Global 2017 – Slate Star Codex](https://slatestarcodex.com/2017/08/16/fear-and-loathing-at-effective-altruism-global-2017/)
+- https://www.leversforprogress.com/
+- https://www.rebuilding.tech/
+- https://scholar.harvard.edu/files/bfriedman/files/the_moral_consequences_of_economic_growth_0.pdf
 
 
+
+Self-Actualisation
+-> still to find.
+Esteem
+-> education, chinese cooking, style & status
+Love & Belonging
+-> sex, gender, personality psychology, sarah constantin's bubbles
+Safety
+-> animal welfare. ethics. liberalism & open-source
+Physiological
+-> poverty reduction through economic growth
