@@ -3,7 +3,7 @@ layout: post
 title: Canonical Articles
 ---
 
-Takes I think are reasonable and informative, that more people should know about. Whether you find the same thing or not depends on your intellectual starting point!
+Models that I think more people could use.
 
 ### **Empirical**
 - [The world is awful. The world is much better. The world can be much better.](https://ourworldindata.org/much-better-awful-can-be-better) – Our World in Data  
