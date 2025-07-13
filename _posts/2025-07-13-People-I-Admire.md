@@ -33,10 +33,23 @@ Scott's work was best in the 2010s under Slate Star Codex rather than in the 202
 _You will generally not find these two society writers in my monthly roundups._ 
 
 
+
+
+
+
 ### Aesthetics
 __because looking good is a lot of effort too!__  
 [Maeve Oake](https://x.com/miaaowing/media)  
 [Akemi](https://x.com/hnr004sei)  
 
+### Art
+__experimental, contains soft nsfw!__  
+[Spindle](https://x.com/AidenR0)  
+[Simz](https://x.com/simzarts)  
 
-This list is periodically updated and not exhaustive at any point in time.
+### Music
+__a snapshot of the music i like__  
+[My Playlist #1](https://open.spotify.com/playlist/3NFlKxgDjFhvwfouHNEmUq?si=d7ae00b0a1c94cb6)  
+
+
+This list is periodically updated and not exhaustive at any point in time.  
