@@ -1,4 +1,6 @@
 
+These are generally people which I'd like to point myself in the direction of being more like - in terms of producing output like theirs. I am lucky enough to know 2-3 of them as internet friends, may this number increase in the future!
+
 
 ### Students (Coders)
 
