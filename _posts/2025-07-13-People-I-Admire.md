@@ -1,5 +1,5 @@
 
-These are generally people which I'd like to point myself in the direction of being more like - in terms of producing output like theirs. I am lucky enough to know 2-3 of them as internet friends, may this number increase in the future!
+These are generally people which I'd like to point myself in the direction of becoming more like - in terms of producing output like theirs. I am lucky enough to know 2-3 of them as internet friends, may this number increase in the future!
 
 
 ### Students (Coders)
@@ -32,4 +32,4 @@ Scott's work was best in the 2010s under Slate Star Codex rather than in the 202
 _You will generally not find these two society writers in my monthly roundups._ 
 
 
-This list is periodically updated.
+This list is periodically updated and not exhaustive at any point in time.
