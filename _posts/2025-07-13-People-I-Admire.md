@@ -19,19 +19,24 @@ I am lucky enough right now to have 2-3 of them as internet friends, may this nu
 [Mariven](https://n.cohomology.group/)  - ethics, maths and taste  
 [Nicky Case](https://ncase.me/)  - many high quality Explorable Explanations
 
-### Writers
+### Writers (who more obviously live in the real world)
 [Austin Vernon](https://austinvernon.site/) - new technology & commodities  
 [Abhishaike Mahajan (Owl Posting)](https://www.owlposting.com/) - biotechnology  
 [Brian Potter (Construction Physics)](https://ifp.org/author/brian-potter/) - infrastructure  
 [Sarah Constantin](https://www.sarah-constantin.org/writing) - new technology & biology  
 _You will find most of these technical writers' work in my monthly roundups._ 
- 
- 
+
 [Kelsey Piper](https://x.com/KelseyTuoc) - society, current  
 Kelsey's work is defining/representative of a particular brand of Californian centre-left technocrats, which means she tends to write more belligerent than the median person who holds some of these views.  
 [Scott Alexander](https://slatestarcodex.com/top-posts/) - society, past  
 Scott's work was best in the 2010s under Slate Star Codex rather than in the 2020s- under [Astral Codex Ten](https://www.astralcodexten.com/). he writes a LOT meaning some of my favourite posts are niche in the [overall scheme of his writing](https://www.slatestarcodexabridged.com/), and probably yours will be too!   
 _You will generally not find these two society writers in my monthly roundups._ 
+
+
+### Aesthetics
+__because looking good is a lot of effort too!__  
+[Maeve Oake](https://x.com/miaaowing/media)  
+[Akemi](https://x.com/hnr004sei)  
 
 
 This list is periodically updated and not exhaustive at any point in time.
