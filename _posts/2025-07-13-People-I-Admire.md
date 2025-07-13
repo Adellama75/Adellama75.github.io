@@ -2,31 +2,32 @@
 
 ### Students (Coders)
 
-[Anson Yu](https://ansonyu.me/) - Socratica  
-[Claire Wang](https://www.clairebookworm.com/)  
-[Shresht Bhowmick (Tetraslam)](https://www.tetraslam.world/)  
-[Yoyo Yuan](https://exanova.mmm.page/)  
+[Anson Yu](https://ansonyu.me/) - climate storytelling, progress, hardware, Socratica, Waterloo  
+[Claire Wang](https://www.clairebookworm.com/) - neuroscience, progress, MIT  
+[Shresht Bhowmick (Tetraslam)](https://www.tetraslam.world/) - hackathons, business, Northeastern  
+[Yoyo Yuan](https://exanova.mmm.page/) - hardware, vibes, MIT  
 
 ### Hardware
-[fishpointer](https://publish.obsidian.md/suneater/Welcome+to+the+Suneater+Labs+Vault) - Suneater Labs  
-[Eigenlucy](https://eigenlucy.com/) - Independent  
+[fishpointer](https://publish.obsidian.md/suneater/Welcome+to+the+Suneater+Labs+Vault) - pcb constructs and printing @ Suneater Labs  
+[Eigenlucy](https://eigenlucy.com/) - pcbs, material interfaces, hacker style. Independent, hire her!  
 
 ### Mysterious Internet Figures
-[Mariven](https://n.cohomology.group/)  
-[Nicky Case](https://ncase.me/)  
+[Mariven](https://n.cohomology.group/)  - ethics, maths and taste
+[Nicky Case](https://ncase.me/)  - many high quality Explorable Explanations
 
 ### Writers
-You will find most of these technical writers' work in my monthly roundups.  
 [Austin Vernon](https://austinvernon.site/) - new technology & commodities  
 [Abhishaike Mahajan (Owl Posting)](https://www.owlposting.com/) - biotechnology  
 [Brian Potter (Construction Physics)](https://ifp.org/author/brian-potter/) - infrastructure  
 [Sarah Constantin](https://www.sarah-constantin.org/writing) - new technology & biology  
-
-You will generally not find these two society writers in my monthly roundups.  
+_You will find most of these technical writers' work in my monthly roundups._ 
+ 
+ 
 [Kelsey Piper](https://x.com/KelseyTuoc) - society, current  
 Kelsey's work is defining/representative of a branch of California centre-left technocrats, which means she tends to write more belligerent than the median person who holds some of these ideas.  
 [Scott Alexander](https://slatestarcodex.com/top-posts/) - society, past  
-Scott's work was best in the 2010s under Slate Star Codex rather than in the 2020s- under [Astral Codex Ten](https://www.astralcodexten.com/). he writes a LOT meaning some of my favourite posts are niche in the [overall scheme of his writing](https://www.slatestarcodexabridged.com/), and probably yours will be too!  
+Scott's work was best in the 2010s under Slate Star Codex rather than in the 2020s- under [Astral Codex Ten](https://www.astralcodexten.com/). he writes a LOT meaning some of my favourite posts are niche in the [overall scheme of his writing](https://www.slatestarcodexabridged.com/), and probably yours will be too!   
+_You will generally not find these two society writers in my monthly roundups._ 
 
 
 This list is periodically updated.
