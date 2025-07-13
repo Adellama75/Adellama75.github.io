@@ -1,5 +1,5 @@
 
-These are generally people which I'd like to point myself in the direction of becoming more like - in terms of producing output like theirs. I am lucky enough to know 2-3 of them as internet friends, may this number increase in the future!
+These are generally people which I'd like to point myself in the direction of becoming more like - in terms of producing output like theirs. I think being able to make what they make is a rare and valuable ability, and I sometimes wish to have known about this general catagory of people sooner - there is much more to life than studying and corporate! I am lucky enough right now to know 2-3 of them as internet friends, may this number increase in the future.
 
 
 ### Students (Coders)
