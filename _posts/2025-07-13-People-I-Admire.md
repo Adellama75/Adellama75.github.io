@@ -1,20 +1,22 @@
 
-These are generally people which I'd like to point myself in the direction of becoming more like - in terms of producing output like theirs. I think being able to make what they make is a rare and valuable ability, and I sometimes wish to have known about this general catagory of people sooner - there is much more to life than studying and corporate! I am lucky enough right now to know 2-3 of them as internet friends, may this number increase in the future.
+These are generally people which I'd like to point myself in the direction of becoming more like, in terms of producing output like theirs. 
+
+I think being able to make what they make is rare and valuable, and I often wish to have known about this broad catagory of people sooner - they show that there is much more to life than studying and competition for corporate positions!
+
+I am lucky enough right now to have 2-3 of them as internet friends, may this number increase in the future.
 
 
-### Students (Coders)
+### Students (good coders, irl project pushers)
 
 [Anson Yu](https://ansonyu.me/) - climate storytelling, progress, hardware, Socratica, Waterloo  
 [Claire Wang](https://www.clairebookworm.com/) - neuroscience, progress, MIT  
 [Shresht Bhowmick (Tetraslam)](https://www.tetraslam.world/) - hackathons, business, Northeastern  
 [Yoyo Yuan](https://exanova.mmm.page/) - hardware, vibes, MIT  
 
-### Hardware
+### Mysterious Internet Figures
 [fishpointer](https://publish.obsidian.md/suneater/Welcome+to+the+Suneater+Labs+Vault) - pcb constructs and printing @ Suneater Labs  
 [Eigenlucy](https://eigenlucy.com/) - pcbs, material interfaces, hacker style. Independent, hire her!  
-
-### Mysterious Internet Figures
-[Mariven](https://n.cohomology.group/)  - ethics, maths and taste
+[Mariven](https://n.cohomology.group/)  - ethics, maths and taste  
 [Nicky Case](https://ncase.me/)  - many high quality Explorable Explanations
 
 ### Writers
