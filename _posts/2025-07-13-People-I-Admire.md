@@ -11,14 +11,14 @@ I am lucky enough right now to have 2-3 of them as internet friends, may this nu
 [Claire Wang](https://www.clairebookworm.com/) - neuroscience, progress, MIT  
 [Shresht Bhowmick (Tetraslam)](https://www.tetraslam.world/) - hackathons, business, Northeastern  
 [Yoyo Yuan](https://exanova.mmm.page/) - hardware, vibes, MIT  
-
+<br>
 
 ### Mysterious Internet Figures  
 [fishpointer](https://publish.obsidian.md/suneater/Welcome+to+the+Suneater+Labs+Vault) - pcb constructs and printing @ Suneater Labs  
 [Eigenlucy](https://eigenlucy.com/) - pcbs, material interfaces, hacker style. Independent, hire her!  
 [Mariven](https://n.cohomology.group/)  - ethics, maths and taste  
 [Nicky Case](https://ncase.me/)  - many high quality Explorable Explanations  
-
+<br>
 
 ### Writers (real world)  
 _You will find most of these technical writers' work in my monthly roundups._  
@@ -32,24 +32,24 @@ _You will generally not find these two society writers in my monthly roundups._
 Kelsey's work is defining of a particular brand of Californian centre-left technocrat, which means she tends to write more belligerent than the median person with these views.  
 [Scott Alexander](https://www.slatestarcodexabridged.com/) - society, past  
 Scott's work was best in the 2010s under [Slate Star Codex](https://slatestarcodex.com/top-posts/) rather than in the 2020s under [Astral Codex Ten](https://www.astralcodexten.com/). he writes a LOT, meaning some of my favourite posts are niche in the overall scheme of his writing, and probably yours will be too, but I almost guarantee he has something for you.   
- 
+<br>
 
 ### Aesthetics  
-__because looking good is a lot of effort too!__  
+_because looking good is a lot of effort too!_  
 [Maeve Oake](https://x.com/miaaowing/media)  
 [Akemi](https://x.com/hnr004sei)  
-
+<br>
 
 ### Art  
-__experimental, contains soft nsfw!__  
+_experimental, contains soft nsfw!_  
 [Spindle](https://x.com/AidenR0)  
 [Simz](https://x.com/simzarts)  
-
+<br>
 
 ### Music  
-__a snapshot of the music i like__  
+_a snapshot of the music i like_  
 [My Playlist #1](https://open.spotify.com/playlist/3NFlKxgDjFhvwfouHNEmUq?si=d7ae00b0a1c94cb6)  
 [Did the Dawn Ever Find You?](https://open.spotify.com/album/3wxGcpMtzyhBcQTpapzPSm?si=DZEkXGjzR4m7stKHWiU_ww) - The Muun Lofi  
-
+<br>
 
 This list is periodically updated and not exhaustive at any point in time.  
