@@ -41,7 +41,7 @@ _because looking good is a lot of effort too!_
 <br>
 
 ### Art  
-_experimental, contains soft nsfw!_  
+_sometimes contains soft nsfw, most of the time doesn't_  
 [Spindle](https://x.com/AidenR0)  
 [Simz](https://x.com/simzarts)  
 <br>
