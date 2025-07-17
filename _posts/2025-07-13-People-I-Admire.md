@@ -1,9 +1,9 @@
 
-These are generally people which I'd like to point myself in the direction of becoming more like, in terms of producing output like theirs. 
+These are generally people which I'd like to become more like - to produce output like theirs. 
 
-I think being able to make what they make is rare and valuable, and I often wish to have known about this broad catagory of people sooner - they show that there is much more to life than studying and competition for corporate positions!
+I think making what they do is rare and valuable, and wish i knew about this catagory of people sooner.
 
-I am lucky enough right now to have 2-3 of them as internet friends, may this number increase in the future.
+Right now I am lucky to know 2-3 of them as internet friends, may this number increase in the future.
 
 
 ### Students (good coders, irl project pushers)  
@@ -52,4 +52,4 @@ _a snapshot of the music i like_
 [Did the Dawn Ever Find You?](https://open.spotify.com/album/3wxGcpMtzyhBcQTpapzPSm?si=DZEkXGjzR4m7stKHWiU_ww) - The Muun Lofi  
 <br>
 
-This list is periodically updated and not exhaustive at any point in time.  
+This list is periodically updated and not exhaustive at any point in time.
