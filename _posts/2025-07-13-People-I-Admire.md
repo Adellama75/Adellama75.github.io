@@ -6,14 +6,14 @@ I think making what they do is rare and valuable, and wish i knew about this cat
 Right now I am lucky to know 2-3 of them as internet friends, may this number increase in the future.
 
 
-### Students (good coders, irl project pushers)  
+### Students
 [Anson Yu](https://ansonyu.me/) - climate storytelling, progress, hardware, Socratica, Waterloo  
 [Claire Wang](https://www.clairebookworm.com/) - neuroscience, progress, MIT  
 [Shresht Bhowmick (Tetraslam)](https://www.tetraslam.world/) - hackathons, business, Northeastern  
 [Yoyo Yuan](https://exanova.mmm.page/) - hardware, vibes, MIT  
 <br>
 
-### Mysterious Internet Figures  
+### Internet Figures  
 [fishpointer](https://publish.obsidian.md/suneater/Welcome+to+the+Suneater+Labs+Vault) - pcb constructs and printing @ Suneater Labs  
 [Eigenlucy](https://eigenlucy.com/) - pcbs, material interfaces, hacker style. Independent, hire her!  
 [Mariven](https://n.cohomology.group/)  - ethics, maths and taste  
