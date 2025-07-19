@@ -2,7 +2,7 @@
 
 [Personality: The Body in Society](https://meltingasphalt.com/personality-the-body-in-society/)
 
-Traits come on a bell curve. Gendered traits are broadly correlated with one another, genetically and game theoretically. Imagine that 2% of men land in the middle of the female bell curve, and 2% of women land in the middle of the male curve. 0.7% of the population poll as transgender. Let's assume the true prevalence of "transgender" if there is no stigma against them is 3x0.7% = 2%.
+Traits come on a bell curve. Gendered traits are broadly correlated with one another. 0.7% of the population poll as transgender. Let's assume the true prevalence of "transgender" if there is no stigma against them is 3x0.7% = 2%. Imagine that 2% of men land in the middle of the female bell curve, and 2% of women land in the middle of the male curve. We can estimate these numbers to be close to one another.
 
 My year group in high school (generally a respectful space) has a 3/150 = 2% prevalence. I am maybe the 3th girliest out of 75 boys which means i'm in the 4% of opposite-sex traited. To me, these numbers make sense. I am definitely closer to the female median than the male on the measure, and more in line with female culture than male culture.
 
