@@ -1,7 +1,5 @@
 ## Trans by Default
 
-[Cis By Default](https://thingofthings.wordpress.com/2015/01/28/cis-by-default/)
-
 [Personality: The Body in Society](https://meltingasphalt.com/personality-the-body-in-society/)
 
 Traits come on a bell curve. Gendered traits are broadly correlated with one another, genetically and game theoretically. Imagine that 2% of men land in the middle of the female bell curve, and 2% of women land in the middle of the male curve. 0.7% of the population poll as transgender. Let's assume the true prevalence of "transgender" if there is no stigma against them is 3x0.7% = 2%.
