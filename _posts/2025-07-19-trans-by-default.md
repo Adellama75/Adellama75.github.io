@@ -1,5 +1,3 @@
-## Trans by Default
-
 [Personality: The Body in Society](https://meltingasphalt.com/personality-the-body-in-society/)
 
 Traits come on a bell curve. Gendered traits are broadly correlated with one another. 0.7% of the population poll as transgender. Let's assume the true prevalence of "transgender" if there is no stigma against them is 3x0.7% = 2%. Imagine that 2% of men land in the middle of the female bell curve, and 2% of women land in the middle of the male curve. We can estimate these numbers to be close to one another.
@@ -12,17 +10,17 @@ My personality is not totally random; given that I am a child of a Chinese immig
 
 [Why Sexual Dimorphism?](https://malmesbury.substack.com/i/45876739/part-the-dimorphification)
 
-Being a man, and being held to the standards of men, is not a realistic choice for me. The realistic, workable choice is being held to the standards of women, which is much more viable. Even if it's not a full replacement, just an escape, it will help me function. I do not want to be seen as a threat. I need to be seen as something to be protected. This applies especially in closer personal relations, not partners but even close friends. I will not do well if held to standards I cannot fulfil.
+Being a man, and being held to the standards of men, is not a realistic choice for me. The realistic, workable choice is being held to the standards of women. Even if it's not a full replacement, just an escape, it will help me function. I need to be seen as something to be protected. I will not do well if held to standards I cannot fulfil.
 
 [Three Hundred Ways It Can Hurt to Be a Man](https://elodes.substack.com/p/three-hundred-ways-it-can-hurt-to)
 
-I have a learnt disgust response for a male body. As long as society is the way it is and treat males as males, this won't go away. I have never cared about a fully functional male body. It does not provide me with anything I want, but layers on expectations i cannot fulfil. It makes people treat me like someone who is going to cause harm. I am not going to cause harm - I'm not wired for harm! I fantasise about marriage, and caring for each other!
+As long as society is the way it is and treat males as males, my response won't go away. A male body does not provide me with anything I want, except layers on expectations i cannot fulfil. It makes people treat me like someone who is going to cause harm. But I fantasise about marriage, and caring and being cared for!
 
-Either my body or my personality will continue to be a burden on the other, if nothing changes. I don't know how to change my personality but I do know how to change my body. The person you know is not my body but my head, I do not feel embodied, things can happen to it independent of the person. Having a female or even intersex body does not stop me from performing economically valuable activities, such as programming, tinkering, studying and writing exams. It reduces my day-to-day stress, external and self-inflicted, and allows me more space to practice these valuable activities, and therefore qualitatively improve my performance. 
+Either my body or my personality will continue to be a burden on the other, if nothing changes. I don't know how to change my personality but I do know how to change my body. Having a female or even intersex body will not stop me from performing economically valuable activities, such as programming, tinkering, studying and writing exams. It reduces my day-to-day stress, both external and learned, and qualitatively improves my performance. 
 
-I stressed a ton about these exact issues which hormones would fix and have fixed in other people. I can point to PhD students and assisstant professors and successful, normal people! Future me will sample from this space, I am trying to get there, and it will be okay! I do not see how it will be the same level of ok if I don't go for this eventually. If I don't, I will continue to suffer and be stressed every single day. 
+I have already stressed a ton about these issues - which hormones would fix and have fixed in other people. I can point to PhD students and assisstant professors and other successful, normal people. I am trying to get there, and it will be okay! If I don't get endocrine intervention, I expect I will continue to suffer and be stressed every single day, as it has been for the last 6 years.
 
-Society or personality is hard to change, but biology, to the extent i want it, is easy and safe to change and people will not die or get hurt.
+Society or personality is hard to change, but biology is easy and safe to change and people will not die or get hurt.
 
 [Society Is Fixed, Biology Is Mutable](https://slatestarcodex.com/2014/09/10/society-is-fixed-biology-is-mutable/)
 
