@@ -18,13 +18,10 @@ As long as society is the way it is and treat males as males, my response won't 
 
 Either my body or my personality will continue to be a burden on the other, if nothing changes. I don't know how to change my personality but I do know how to change my body. Having a female or even intersex body will not stop me from performing economically valuable activities, such as programming, tinkering, studying and writing exams. It reduces my day-to-day stress, both external and learned, and qualitatively improves my performance. 
 
+[Doing what you're talented in](https://slatestarcodex.com/2015/02/01/talents-part-2-attitude-vs-altitude/)
+
 I have already stressed a ton about these issues - which hormones would fix and have fixed in other people. I can point to PhD students and assisstant professors and other successful, normal people. I am trying to get there, and it will be okay! If I don't get endocrine intervention, I expect I will continue to suffer and be stressed every single day, as it has been for the last 6 years.
 
 Society or personality is hard to change, but biology is easy and safe to change and people will not die or get hurt.
 
 [Society Is Fixed, Biology Is Mutable](https://slatestarcodex.com/2014/09/10/society-is-fixed-biology-is-mutable/)
-
-
-
-
-
