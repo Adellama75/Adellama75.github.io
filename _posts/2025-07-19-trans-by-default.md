@@ -4,7 +4,7 @@
 
 Traits come on a bell curve. Gendered traits are broadly correlated with one another. 0.7% of the population poll as transgender. Let's assume the true prevalence of "transgender" if there is no stigma against them is 3x0.7% = 2%. Imagine that 2% of men land in the middle of the female bell curve, and 2% of women land in the middle of the male curve. We can estimate these numbers to be close to one another.
 
-My year group in high school (generally a respectful space) has a 3/150 = 2% prevalence. I am maybe the 3th girliest out of 75 boys which means i'm in the 4% of opposite-sex traited. To me, these numbers make sense. I am definitely closer to the female median than the male on the measure, and more in line with female culture than male culture.
+My year group in high school (generally a respectful space) has a 3/150 = 2% prevalence of transgender high school kids. I am maybe the 3th girliest out of 75 boys which means i'm in the top 4% of opposite-sex traited students, or 1 in 25. I am definitely closer to the female median than the male on the measure, and more in line with female culture than male culture. To me, these numbers make sense. 
 
 These non-typical traits then, would make me perform worse than average as a guy, and at least average as a girl, in being legible in the wider cishet-normative society in which we live. Legibility is important - it's the foundation for stability and long term mutually beneficial skill, information and resource exchange relationships. You must be legible to fit into society, which is something I desire.
 
