@@ -17,8 +17,17 @@ Peers are important.
 
 > Home life only goes so far in shaping a child's personality. The bulk of it gets forged in the child's social life outside the home — among his or her peers. Peers are important because they're our main competitors, collaborators, and sexual partners — the people we play social games with throughout our lives. Additionally, they're the best reference class for learning about our own strengths and weaknesses (whether we're ugly or beautiful, dull or clever, etc.). As Judith Rich Harris explains in No Two Alike, we can't learn these things from our family:
 
+scenes - gwern
+scenes - henrik karlsson
+science is a strong link problem
+
+Getting into scenes by doing them / making friends by doing things.
 
 bourgeois dignity
 
-rock climbing.
+rock climbing
 
+bubbles - sarah constantin, scott alexander, robin hanson
+
+
+I have found who my friends are through the internet, finally. instagram was not the platform for me because it does not show how things are done. And it is populated by different kinds of people.
