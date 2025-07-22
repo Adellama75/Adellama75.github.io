@@ -33,3 +33,6 @@ bubbles - sarah constantin, scott alexander, robin hanson
 
 
 I have found who my friends are through the internet, finally. instagram was not the platform for me because it does not show how things are done. And it is populated by different kinds of people.
+
+
+repetition is the mother of learning. (spaced, but definitely repitition)
