@@ -7,6 +7,8 @@ the equivalence of a functioning industrial supply chain - machine tools, OEMs, 
 [developing countries needs stable institutions for development]
 Douglass North
 
+courts, business contract enforcement capacity. Political stability.
+
 resource cursed coutnries and why they do not have a rule of law
 
 
