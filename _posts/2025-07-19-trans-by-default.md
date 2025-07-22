@@ -1,6 +1,6 @@
 [Personality: The Body in Society](https://meltingasphalt.com/personality-the-body-in-society/)
 
-Traits come on a bell curve. Gendered traits are broadly correlated with one another. 0.7% of the population poll as transgender. Let's assume the true prevalence of "transgender" if there is no stigma against them is 3x0.7% = 2%. Imagine that 2% of men land in the middle of the female bell curve, and 2% of women land in the middle of the male curve. We can estimate these numbers to be close to one another.
+Traits come on a bell curve. Gendered traits are broadly correlated with one another. 0.7% of the population poll as transgender. Let's assume the true prevalence of "transgender" if there is no stigma against them is 3*0.7% = 2%. Imagine that 2% of men land in the middle of the female bell curve, and 2% of women land in the middle of the male curve. We can estimate these numbers to be close to one another.
 
 My year group in high school (generally a respectful space) has a 3/150 = 2% prevalence of transgender high school kids. I am maybe the 3th girliest out of 75 boys which means i'm in the top 4% of opposite-sex traited students, or 1 in 25. I am definitely closer to the female median than the male on the measure, and more in line with female culture than male culture. To me, these numbers make sense. 
 
@@ -14,7 +14,7 @@ Being a man, and being held to the standards of men, is not a realistic choice f
 
 [Three Hundred Ways It Can Hurt to Be a Man](https://elodes.substack.com/p/three-hundred-ways-it-can-hurt-to)
 
-As long as society is the way it is and treat males as males, my response won't go away. A male body does not provide me with anything I want, except layers on expectations i cannot fulfil. It makes people treat me like someone who is going to cause harm. But I fantasise about marriage, and caring and being cared for!
+As long as society treat males as they are currently being treated, my response won't go away. A male body does not provide me with anything I want, except layers of expectations I cannot fulfil. It makes people treat me like someone who is going to cause harm. But I fantasise about marriage, and caring and being cared for. I'm not at all wired to cause harm!
 
 Either my body or my personality will continue to be a burden on the other, if nothing changes. I don't know how to change my personality but I do know how to change my body. Having a female or even intersex body will not stop me from performing economically valuable activities, such as programming, tinkering, studying and writing exams. It reduces my day-to-day stress, both external and learned, and qualitatively improves my performance. 
 
