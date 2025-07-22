@@ -10,6 +10,8 @@ consultants help increase productiviy [indian firms]. this makes a case for lear
 
 consultants in a less-developed context are different than their ability in a developed context. they embody the accumulated tacit knowledge from years of industrial development and operations and can bring known and reliable methods to firms in areas which this knowledge has not diffused to. [cite india small firms consultants productivity]
 
+the chinese playbook.
+
 
 ### Peers and Scenes
 
