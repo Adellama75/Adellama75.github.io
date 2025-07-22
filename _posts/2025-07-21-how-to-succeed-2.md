@@ -9,3 +9,9 @@ tech ecosystems have components that support each other to form (in a healthy st
 
 https://slatestarcodex.com/2015/01/31/the-parable-of-the-talents/
 https://meltingasphalt.com/personality-the-body-in-society/
+
+
+paying kids to study (alpha school)
+
+utility as log (incentives)
+
