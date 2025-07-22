@@ -9,4 +9,18 @@ the equivalence of a functioning industrial supply chain - machine tools, OEMs, 
 
 
 ### A Stable Home
-Somewhere to belong
+
+What things have i accumulated since last year?
+
+- ability to make food
+- a stable sleep routine (pharmaceutically assisted)
+- ability to live with others (how to interact with them)
+- ability to maintain a comfortable working space
+- system to process notes, and to task priorotisation software
+- friends to help me with being emotionally regulated and available to study
+- 
+
+
+
+to come:
+- exercise
