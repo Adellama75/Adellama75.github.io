@@ -23,11 +23,6 @@ This can be called state capacity. ("State capacity describes the ability of a s
 I am oversimplifying here and using a lot of words, but (i hope) these words are back up by emperical observations from historical records that everyone can see, and some that are in living memory.
 
 
-
-
-
-
-
 [developing countries needs stable institutions for development]
 Douglass North
 
@@ -47,7 +42,7 @@ developing countries need power, water and roads.
 
 
 
-### Slack
+### Personal Effectiveness
 
 2. a human needs an analogous set of foundations to sustain itself and generate enough slack that can be reinvested into education and skills practice. These two are seperate but connected.
 
