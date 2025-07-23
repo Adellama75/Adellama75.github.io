@@ -19,37 +19,35 @@ Here is a simplified model:
 
 This can be called state capacity. ("State capacity describes the ability of a state to collect taxes, enforce law and order, and provide public goods [banks, trade ministries, courts], and services like education, public health, infrastructure.")
 
-
 I am oversimplifying here and using a lot of words, but (i hope) these words are back up by emperical observations from historical records that everyone can see, and some that are in living memory.
-
 
 [developing countries needs stable institutions for development]
 Douglass North
 
-courts, business contract enforcement capacity. Political stability.
-
-resource cursed coutnries and why they do not have a rule of law
-
-
-Poor Economics - uncertainty management
+resource cursed countries and why they do not have a rule of law
 
 developing countries need power, water and roads.
 
 
 
 **GROUND ABSTRACT CONCEPTS WITH EXAMPLES**
-"you can get away with ignoring maintenance for a time, until suddenly everything shuts down in a cascade failure." then sharpen it with a sub-analogy on JUST HOW BAD missing sleep screws a person *or* the same for component defects in engineering systems. lean into specifics + humor.
+use concrete analogy on JUST HOW BAD missing sleep screws a person *or* the same for component defects in engineering systems. lean into specifics + humor.
+
 
 
 
 ### Personal Effectiveness
 
-2. a human needs an analogous set of foundations to sustain itself and generate enough slack that can be reinvested into education and skills practice. These two are seperate but connected.
+
 
 
 Let's work backwards to find the equivalent list of things that a student would need to get an A on an exam. 
 
-f(access to past exam material, time, effort)
+1. Access to past exam material
+
+2. Learning to the test (accounting for most of the way to an A grade)
+
+3. putting in enough time, multiplied by enough effort
 
 Time means the student must start with enough time to cover the material 4-5 times, for each question on the past exams.
 
@@ -65,6 +63,7 @@ Do I have these foundations?
 A year ago, not necessarily. Right now, yes! We have increased state capacity, by a lot.
 
 
+1.  a human needs an analogous set of foundations to sustain itself and generate enough slack that can be reinvested into education and skills practice. These two are seperate but connected.
 
 
 
