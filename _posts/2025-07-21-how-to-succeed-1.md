@@ -5,6 +5,12 @@ the equivalence of a functioning industrial supply chain - machine tools, OEMs, 
 
 ### State Capacity
 
+One of my hobbies is learning about how countries develop. 
+
+1. a country needs a set of basic foundations, of state capacity, to start growing.
+
+
+
 [developing countries needs stable institutions for development]
 Douglass North
 
@@ -24,7 +30,9 @@ developing countries need power, water and roads.
 
 
 
-### 
+### Slack
+
+2. a human needs an analogous set of foundations to sustain itself and generate enough slack that can be reinvested into education and skills practice. These two are seperate but connected.
 
 
 Let's work backwards to find the equivalent list of things that a student would need to get an A on an exam. 
@@ -81,28 +89,22 @@ almost there:
 - task monitoring and priorotisation software (with the points)
 
 
-
-
 "long-term goals will no longer get vetoed by short-term crises."
 
 
 
 *you don't have to do a 1-to-1 correspondence*
 
- you’ve raised state capacity. that translates straight into:
+you’ve raised state capacity. that translates straight into:
 
-    lower marginal cost of one deep‑work hour
+- lower marginal cost of one deep‑work hour
 
-    bigger slack buffer you can reinvest in upskilling
+- bigger slack buffer you can reinvest in upskilling
 
-    compounding gains—same math as countries finally breaking transport bottlenecks and watching exports explode.
+- compounding gains—same math as countries finally breaking transport bottlenecks and watching exports explode.
     
 
 
-What am I trying to say.
-
-1. a country needs a set of basic foundations, of state capacity, to start growing.
-2. a human needs an analogous set of foundations to sustain itself and generate enough slack that can be reinvested into education and skills practice. These two are seperate but connected.
 3. I have been gaining these foundations at a reliable rate, including having most of them already, compared  to a year ago.
 
 *Explain it for newcomers to both fields. make it clear that I am organizing my thinking this way because development is the one closest area I know and care about, even if it's not relevant to chemical engineering intuitively."
