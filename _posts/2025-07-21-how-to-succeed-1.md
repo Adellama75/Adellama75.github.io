@@ -5,7 +5,7 @@ the equivalence of a functioning industrial supply chain - machine tools, OEMs, 
 
 ### State Capacity
 
-One of my hobbies is learning about how countries develop. 
+One of my persistent hobbies, in times of good and bad, is learning about how countries develop. 
 
 1. a country needs a set of basic foundations, of state capacity, to start growing.
 
