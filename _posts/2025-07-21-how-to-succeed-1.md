@@ -29,7 +29,15 @@ developing countries need power, water and roads.
 
 Let's work backwards to find the equivalent list of things that a student would need to get an A on an exam. 
 
+f(access to past exam material, time, effort)
 
+time means the student must start with enough time to cover the material 4-5 times, for each question on the past exams.
+
+effort also has some prerequisites, those that are correlated with the ability to sit and focus on answering and recalling the answers before you.
+
+breaking down effort = E(hunger, restedness, stress, motivation, etc.)
+
+Motivation is a big one and can overcome deficiencies in some other areas temporarily. We'll cover that in the second part of the series. All the rest of the factors that go into "effort" and "time" I'm going to classify as the foundations to achieving what you want in education.
 
 
 I have been a resource cursed person.
