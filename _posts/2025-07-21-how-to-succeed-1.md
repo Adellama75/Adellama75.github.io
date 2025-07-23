@@ -26,6 +26,12 @@ developing countries need power, water and roads.
 
 ### A Stable Home
 
+
+Let's work backwards to find the equivalent list of things that a student would need to get an A on an exam. 
+
+
+
+
 I have been a resource cursed person.
 
 Finding early and middle education easy is not naturaly amenable to developing functioning governing institutions. (legacy businesses that do not or can not innovate)
@@ -60,7 +66,3 @@ almost there:
 
 
 *you don't have to do a 1-to-1 correspondence*
-
-
-
-
