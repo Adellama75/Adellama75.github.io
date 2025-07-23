@@ -49,6 +49,8 @@ Let's work backwards to find the equivalent list of things that a student would 
 
 3. putting in enough time, multiplied by enough effort
 
+
+
 Time means the student must start with enough time to cover the material 4-5 times, for each question on the past exams.
 
 effort also has some prerequisites, those that are correlated with the ability to sit and focus on answering and recalling the answers before you.
@@ -58,21 +60,17 @@ breaking down effort = E(hunger, restedness, stress, motivation, etc.)
 Motivation is a big one and can overcome deficiencies in some other areas temporarily. We'll cover that in the second part of the series. All the rest of the factors that go into "effort" and "time" I'm going to classify as the "foundations" to achieving what you want in education.
 
 
+
+### My Experience
+
 Do I have these foundations?
 
 A year ago, not necessarily. Right now, yes! We have increased state capacity, by a lot.
 
 
-1.  a human needs an analogous set of foundations to sustain itself and generate enough slack that can be reinvested into education and skills practice. These two are seperate but connected.
+1.  a human needs a set of foundations to sustain itself and generate enough slack that can be reinvested into education and skills practice. These two are seperate but connected.
 
-
-
-
-I have been a resource cursed person.
-
-
-
-Finding early and middle education easy is not naturaly amenable to developing functioning governing institutions. (legacy businesses that do not or can not innovate)
+I have been a resource cursed person. Finding early and middle education easy is not naturaly amenable to developing functioning governing institutions. (legacy businesses that do not or can not innovate)
 
 
 
@@ -94,29 +92,25 @@ What things have I accumulated since last year?
 - financial clarity and security (family situation finally becoming stable and me being aware of it) == balanced, stable, plannable budget
 
 
+
 almost there:
 - exercise
 - self-built system to process notes (put them into a standard format)
 - task monitoring and priorotisation software (with the points)
 
 
-"long-term goals will no longer get vetoed by short-term crises."
+"long-term goals will no longer get vetoed by short-term crises." there will be less variation on output ability.
 
-
-
-*you don't have to do a 1-to-1 correspondence*
-
-you’ve raised state capacity. that translates straight into:
-
+I've raised state capacity. that translates straight into:
 - lower marginal cost of one deep‑work hour
-
 - bigger slack buffer you can reinvest in upskilling
-
-- compounding gains—same math as countries finally breaking transport bottlenecks and watching exports explode.
+- stable, linear slack that is generated again and again. — same math as countries finally breaking transport bottlenecks and watching exports explode. Solow's Model.
     
 
 
-3. I have been gaining these foundations at a reliable rate, including having most of them already, compared  to a year ago.
+I have been gaining these foundations at a reliable rate, including having most of them already, compared  to a year ago. A year ago, I didn't have any of this, and made enough mistakes to learn how to solve them.
+
+
 
 *Explain it for newcomers to both fields. make it clear that I am organizing my thinking this way because development is the one closest area I know and care about, even if it's not relevant to chemical engineering intuitively."
 
