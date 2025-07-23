@@ -5,9 +5,26 @@ the equivalence of a functioning industrial supply chain - machine tools, OEMs, 
 
 ### State Capacity
 
-One of my persistent hobbies, in times of good and bad, is learning about how countries develop. 
+One of my persistent interests, in times of good and bad, is learning about how countries develop. Our living standards have risen greatly, in some countries within the last couple of decades (Korea and China), many-fold. With this surplus comes stability and a better life for all citizens of that country, and many interesting things to talk about, like their cultural exports, and technological ones too.
 
-1. a country needs a set of basic foundations, of state capacity, to start growing.
+
+
+Here is a simplified model:
+
+1. the way out of poverty since the industrial revolution has been a functioning market economy.
+
+2. market economies need property rights and rule of law.
+
+3. the state is normally the one who sets up those conditions: enforcing property rights and rule of law.
+
+This can be called state capacity. ("State capacity describes the ability of a state to collect taxes, enforce law and order, and provide public goods [banks, trade ministries, courts], and services like education, public health, infrastructure.")
+
+
+I am oversimplifying here and using a lot of words, but (i hope) these words are back up by emperical observations from historical records that everyone can see, and some that are in living memory.
+
+
+
+
 
 
 
