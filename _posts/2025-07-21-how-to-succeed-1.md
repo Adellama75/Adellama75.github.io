@@ -101,8 +101,8 @@ almost there:
 
 What am I trying to say.
 
-1. a country needs a set of basic foundations to start growing. A company needs 
-2. a human needs an analogous set of foundations to sustain itself and generate enough slack that can be reinvested into education and skills practice.
+1. a country needs a set of basic foundations, of state capacity, to start growing.
+2. a human needs an analogous set of foundations to sustain itself and generate enough slack that can be reinvested into education and skills practice. These two are seperate but connected.
 3. I have been gaining these foundations at a reliable rate, including having most of them already, compared  to a year ago.
 
 *Explain it for newcomers to both fields. make it clear that I am organizing my thinking this way because development is the one closest area I know and care about, even if it's not relevant to chemical engineering intuitively."
