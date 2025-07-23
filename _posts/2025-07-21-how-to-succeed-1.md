@@ -3,7 +3,7 @@
 the equivalence of a functioning industrial supply chain - machine tools, OEMs, skilled labour force and engineers, and of course basic insitutions for trade - is a functioning personal supply chain - of food, of tools like modelling software and books, of sanity.
 
 
-### The Rule of Law
+### State Capacity
 
 [developing countries needs stable institutions for development]
 Douglass North
@@ -24,25 +24,39 @@ developing countries need power, water and roads.
 
 
 
-### A Stable Home
+### 
 
 
 Let's work backwards to find the equivalent list of things that a student would need to get an A on an exam. 
 
 f(access to past exam material, time, effort)
 
-time means the student must start with enough time to cover the material 4-5 times, for each question on the past exams.
+Time means the student must start with enough time to cover the material 4-5 times, for each question on the past exams.
 
 effort also has some prerequisites, those that are correlated with the ability to sit and focus on answering and recalling the answers before you.
 
 breaking down effort = E(hunger, restedness, stress, motivation, etc.)
 
-Motivation is a big one and can overcome deficiencies in some other areas temporarily. We'll cover that in the second part of the series. All the rest of the factors that go into "effort" and "time" I'm going to classify as the foundations to achieving what you want in education.
+Motivation is a big one and can overcome deficiencies in some other areas temporarily. We'll cover that in the second part of the series. All the rest of the factors that go into "effort" and "time" I'm going to classify as the "foundations" to achieving what you want in education.
+
+
+Do I have these foundations?
+
+A year ago, not necessarily. Right now, yes! We have increased state capacity, by a lot.
+
+
+
+
 
 
 I have been a resource cursed person.
 
+
+
 Finding early and middle education easy is not naturaly amenable to developing functioning governing institutions. (legacy businesses that do not or can not innovate)
+
+
+
 
 What things have I accumulated since last year?
 
@@ -74,3 +88,31 @@ almost there:
 
 
 *you don't have to do a 1-to-1 correspondence*
+
+ you’ve raised state capacity. that translates straight into:
+
+    lower marginal cost of one deep‑work hour
+
+    bigger slack buffer you can reinvest in upskilling
+
+    compounding gains—same math as countries finally breaking transport bottlenecks and watching exports explode.
+    
+
+
+What am I trying to say.
+
+1. a country needs a set of basic foundations to start growing. A company needs 
+2. a human needs an analogous set of foundations to sustain itself and generate enough slack that can be reinvested into education and skills practice.
+3. I have been gaining these foundations at a reliable rate, including having most of them already, compared  to a year ago.
+
+*Explain it for newcomers to both fields. make it clear that I am organizing my thinking this way because development is the one closest area I know and care about, even if it's not relevant to chemical engineering intuitively."
+
+
+
+
+
+
+
+
+
+
