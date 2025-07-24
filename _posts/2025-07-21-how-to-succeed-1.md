@@ -38,7 +38,7 @@ State capacity means governance ability and some fiscal slack. The effects of ha
 
 
 
-### Personal Effectiveness
+### Spoon Theory
 
 Imagine if you were a student studying for a set of exams. Let's work backwards to find the equivalent minimum list of things that a student would need to get an A on an exam. 
 
