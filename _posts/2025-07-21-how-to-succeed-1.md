@@ -12,7 +12,6 @@ wht am I trying to say? -> good rules and effective enforcement "state capacity"
 
 One of my persistent interests, in times of good and bad, is learning about how countries develop. Our living standards have risen greatly, in some countries within the last couple of decades (Korea and China), many-fold. With this surplus comes stability and a better life for all citizens of that country, and many interesting things to talk about, like their cultural exports, and technological ones too. I'm interested in development as a robust tool for poverty alleviation.
 
-
 Here is a simplified model:
 
 1. the way out of poverty since the industrial revolution has been a functioning market economy.
@@ -20,7 +19,6 @@ Here is a simplified model:
 2. markets need a certain level of state capacity to function. This includes assurances like property rights and rule of law, and some infrastructure like roads. [growth-promoting, inclusive institutions]
 
 3. the state is normally the one who sets up those conditions: enforcing property rights and rule of law, and providing public goods. So that firms do not have to worry about who is providing a court of arbitrage, protection against robbery, or public goods like a worker base and roads. [state capacity] The state needs to do all these because individual firms are not in a relatively good position to do this.
-
 
 https://mason.gmu.edu/~mkoyama2/About_files/StateCapacitySurvey.pdf
 
@@ -32,14 +30,11 @@ I am oversimplifying here and using a lot of words, but these words are back up 
 [developing countries needs stable institutions for development]
 Douglass North
 
-
 resource cursed countries without stable institutions???
 
 developing countries need power, water and roads. Without these factors, places do not develop.
 
-
 State capacity means governance ability and some fiscal slack. The effects of having this are that the state can begin to invest in revenue-generating activities. Roads, power, rail, a labour force with basic skills. With this basic level of competency at governance, the state can then invest in incentivising companies to form and for those companies to compete against each other, following the state's incentives, forming an industrial base.
-
 
 
 
@@ -51,53 +46,20 @@ Imagine if you were a student studying for a set of exams. Let's work backwards 
 
 2. learning to the test requires the student repeatedly spending time and effort to memorize relevant material being tested. The student needs free time and energy in order to do this.
 
-3. With good planning and skills aquisition, the student can compress the time and effort needed by other parts of her life, in order to free up time and energy to study. They have to do this ahead of time, because  some of these investments take an amount of time and energy that directly hurts their bottom line of how much they can study. You cannot learn to cook if cooking takes 5 hours due to a cascade of missing groceries and tools.
+3. With good planning and skills aquisition, the student can compress the time and effort needed by other parts of her life, in order to free up time and energy to study. They have to do this ahead of time, because  some of these investments take an amount of time and energy that directly hurts their bottom line of how much they can study. You cannot industrialise without roads and semi-reliable power, and you cannot learn to cook if cooking takes 5 hours due to a cascade of missing groceries and tools.
 
-
-
-Time means the student must start with enough time to cover the material 4-5 times, for each question on the past exams.
-
-effort also has some prerequisites, those that are correlated with the ability to sit and focus on answering and recalling the answers before you.
-
+What is needed?
 -> no more basic concerns: hunger, stress, restedness
--> motivation
 
 
 
-mechanism issues (under "learning to the test"):
-task definition & validation → compiles a spec & test: what exact artifact/skill by t+Δ, and how you’ll prove it.
+All the rest of the factors that go into "effort" and "time" I'm going to classify as the "foundations" to achieving what you want in education.
 
-contextual friction control → conditions the workspace so action has minimal drag: distractions blocked, files open, chair ok.
-
+Motivation is the next level of the game. We'll cover that in the second part of the series. 
 
 
 
-
-execution structure → converts the spec into time + ordered actions: when, first step, sequence, protected slot. [task prioritisation software]
-
-resource & social access → ensures every external thing/person required is reachable when ES says “go”.
-[notes processing software]
-
-
-
-
-
-
-
-
-Motivation is a big one and can overcome deficiencies in some other areas temporarily. We'll cover that in the second part of the series. All the rest of the factors that go into "effort" and "time" I'm going to classify as the "foundations" to achieving what you want in education.
-
-
-
-
-Now we have an equivalent (if simplified) mechanistic model of how to succeed in a personal pursuit - studying for exams, to gain academic merit - or at least the prerequisites that are needed at the bottom level. 
-
-
-The disclaimer is that this is based from 
-
-At the expense of modelling from one of a few areas I know and understand. 
-
-
+Now we have an equivalent (if simplified) of the prerequisites that are needed at the bottom level to succeed in studies.
 
 
 
