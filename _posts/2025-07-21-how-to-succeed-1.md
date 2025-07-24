@@ -5,49 +5,53 @@ the equivalence of a functioning industrial supply chain - machine tools, OEMs, 
 
 ### State Capacity
 
-One of my persistent interests, in times of good and bad, is learning about how countries develop. Our living standards have risen greatly, in some countries within the last couple of decades (Korea and China), many-fold. With this surplus comes stability and a better life for all citizens of that country, and many interesting things to talk about, like their cultural exports, and technological ones too.
+Institutions; state capacity; rules for trade.
 
+
+wht am I trying to say? -> good rules and effective enforcement "state capacity" are needed for development.
+
+One of my persistent interests, in times of good and bad, is learning about how countries develop. Our living standards have risen greatly, in some countries within the last couple of decades (Korea and China), many-fold. With this surplus comes stability and a better life for all citizens of that country, and many interesting things to talk about, like their cultural exports, and technological ones too. I'm interested in development as a robust tool for poverty alleviation.
 
 
 Here is a simplified model:
 
 1. the way out of poverty since the industrial revolution has been a functioning market economy.
 
-2. market economies need property rights and rule of law.
+2. markets need a certain level of state capacity to function. This includes assurances like property rights and rule of law, and some infrastructure like roads. [growth-promoting, inclusive institutions]
 
-3. the state is normally the one who sets up those conditions: enforcing property rights and rule of law.
+3. the state is normally the one who sets up those conditions: enforcing property rights and rule of law, and providing public goods. So that firms do not have to worry about who is providing a court of arbitrage, protection against robbery, or public goods like a worker base and roads. [state capacity] The state needs to do all these because individual firms are not in a relatively good position to do this.
+
+
+https://mason.gmu.edu/~mkoyama2/About_files/StateCapacitySurvey.pdf
 
 This can be called state capacity. ("State capacity describes the ability of a state to collect taxes, enforce law and order, and provide public goods [banks, trade ministries, courts], and services like education, public health, infrastructure.")
 
-I am oversimplifying here and using a lot of words, but (i hope) these words are back up by emperical observations from historical records that everyone can see, and some that are in living memory.
+
+I am oversimplifying here and using a lot of words, but these words are back up by emperical observations from historical records that everyone can see, and some that are in living memory.
 
 [developing countries needs stable institutions for development]
 Douglass North
 
-resource cursed countries and why they do not have a rule of law
 
-developing countries need power, water and roads.
+resource cursed countries without stable institutions???
+
+developing countries need power, water and roads. Without these factors, places do not develop.
 
 
-
-**GROUND ABSTRACT CONCEPTS WITH EXAMPLES**
-use concrete analogy on JUST HOW BAD missing sleep screws a person *or* the same for component defects in engineering systems. lean into specifics + humor.
+State capacity means governance ability and some fiscal slack. The effects of having this are that the state can begin to invest in revenue-generating activities. Roads, power, rail, a labour force with basic skills. With this basic level of competency at governance, the state can then invest in incentivising companies to form and for those companies to compete against each other, following the state's incentives, forming an industrial base.
 
 
 
 
 ### Personal Effectiveness
 
+Imagine if you were a student studying for a set of exams. Let's work backwards to find the equivalent minimum list of things that a student would need to get an A on an exam. 
 
+1. The way to ace exams is 80% accounted for by learning to the test.
 
+2. learning to the test requires the student repeatedly spending time and effort to memorize relevant material being tested. The student needs free time and energy in order to do this.
 
-Let's work backwards to find the equivalent list of things that a student would need to get an A on an exam. 
-
-1. Access to past exam material
-
-2. Learning to the test (accounting for most of the way to an A grade)
-
-3. putting in enough time, multiplied by enough effort
+3. With good planning and skills aquisition, the student can compress the time and effort needed by other parts of her life, in order to free up time and energy to study. They have to do this ahead of time, because  some of these investments take an amount of time and energy that directly hurts their bottom line of how much they can study. You cannot learn to cook if cooking takes 5 hours due to a cascade of missing groceries and tools.
 
 
 
@@ -55,9 +59,45 @@ Time means the student must start with enough time to cover the material 4-5 tim
 
 effort also has some prerequisites, those that are correlated with the ability to sit and focus on answering and recalling the answers before you.
 
-breaking down effort = E(hunger, restedness, stress, motivation, etc.)
+-> no more basic concerns: hunger, stress, restedness
+-> motivation
+
+
+
+mechanism issues (under "learning to the test"):
+task definition & validation → compiles a spec & test: what exact artifact/skill by t+Δ, and how you’ll prove it.
+
+contextual friction control → conditions the workspace so action has minimal drag: distractions blocked, files open, chair ok.
+
+
+
+
+
+execution structure → converts the spec into time + ordered actions: when, first step, sequence, protected slot. [task prioritisation software]
+
+resource & social access → ensures every external thing/person required is reachable when ES says “go”.
+[notes processing software]
+
+
+
+
+
+
+
 
 Motivation is a big one and can overcome deficiencies in some other areas temporarily. We'll cover that in the second part of the series. All the rest of the factors that go into "effort" and "time" I'm going to classify as the "foundations" to achieving what you want in education.
+
+
+
+
+Now we have an equivalent (if simplified) mechanistic model of how to succeed in a personal pursuit - studying for exams, to gain academic merit - or at least the prerequisites that are needed at the bottom level. 
+
+
+The disclaimer is that this is based from 
+
+At the expense of modelling from one of a few areas I know and understand. 
+
+
 
 
 
@@ -107,19 +147,13 @@ I've raised state capacity. that translates straight into:
 - stable, linear slack that is generated again and again. — same math as countries finally breaking transport bottlenecks and watching exports explode. Solow's Model.
     
 
+**GROUND ABSTRACT CONCEPTS WITH EXAMPLES**
+use concrete analogy on JUST HOW BAD missing sleep screws a person *or* the same for component defects in engineering systems. lean into specifics + humor.
+
+
 
 I have been gaining these foundations at a reliable rate, including having most of them already, compared  to a year ago. A year ago, I didn't have any of this, and made enough mistakes to learn how to solve them.
 
 
 
 *Explain it for newcomers to both fields. make it clear that I am organizing my thinking this way because development is the one closest area I know and care about, even if it's not relevant to chemical engineering intuitively."
-
-
-
-
-
-
-
-
-
-
