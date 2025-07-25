@@ -25,3 +25,5 @@ I have already stressed a ton about these issues - which hormones would fix and 
 Society or personality is hard to change, but biology is easy and safe to change and people will not die or get hurt.
 
 [Society Is Fixed, Biology Is Mutable](https://slatestarcodex.com/2014/09/10/society-is-fixed-biology-is-mutable/)
+
+[Sometimes the reason you can’t find people you resonate with is because you misread the ones you meet](https://www.henrikkarlsson.xyz/p/friends-missed)
