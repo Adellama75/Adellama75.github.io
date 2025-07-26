@@ -119,3 +119,6 @@ I have been gaining these foundations at a reliable rate, including having most 
 
 
 *Explain it for newcomers to both fields. make it clear that I am organizing my thinking this way because development is the one closest area I know and care about, even if it's not relevant to chemical engineering intuitively."
+
+
+https://www.strangeloopcanon.com/p/rest	
