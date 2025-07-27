@@ -1,6 +1,11 @@
 ## Foundations
 
-the equivalence of a functioning industrial supply chain - machine tools, OEMs, skilled labour force and engineers, and of course basic insitutions for trade - is a functioning personal supply chain - of food, of tools like modelling software and books, of sanity.
+Prerequisites of a market economy pre-industrialisation include some state capcity - ability of the state to enforce laws (best example: contracts and property rights) and collect taxes. Tax collection goes to fund enforcement as well as public goods - ideally some of roads, power, water, public education. These are prerequisites because it allows smaller businesses to not worry about the provision of these services at scale, whose benefit is diffuse and which they cannot individually fully enjoy - in practice, if provided to a sufficient quality and extent, worrying about these things can be "abstracted away" from businesses to the state.
+
+There are also prerequisites to being effectively educated, on an individual student level. Of course, individuals (and individual businesses) can buck the trend, but that doesn't stop these prerequisites from being needed in the statistical sense. For a student, prerequisites to succeeding in education include reliable access to food, water, shelter and healthcare that prevents debilitation and that minimises the impact of conditions on ability to study. A student also needs provisions: reliable access to notes to learn from, and for best effect tests to study to. In some curricula the student also needs to learn field-specific software (simulation, modelling, version control) as part of the curriculum.
+
+Argument: due to unforseen reasons, I lacked many of these prerequisites at the beginning of the last year, but I have since been gaining them at a steady pace, and am en route to estimating having all of them in October 2026. (If I don't I would be very surprised.)
+
 
 
 ### State Capacity
@@ -36,9 +41,13 @@ developing countries need power, water and roads. Without these factors, places 
 
 State capacity means governance ability and some fiscal slack. The effects of having this are that the state can begin to invest in revenue-generating activities. Roads, power, rail, a labour force with basic skills. With this basic level of competency at governance, the state can then invest in incentivising companies to form and for those companies to compete against each other, following the state's incentives, forming an industrial base.
 
+https://ia902902.us.archive.org/33/items/in.ernet.dli.2015.147391/2015.147391.Economic-Backwardness-In-Historical-Perspective.pdf
+
+State-Building: Governance and World Order in the 21st Century - Fukuyama 
 
 
-### Spoon Theory
+
+### Spoon Theory / Maintenance
 
 Imagine if you were a student studying for a set of exams. Let's work backwards to find the equivalent minimum list of things that a student would need to get an A on an exam. 
 
@@ -47,6 +56,8 @@ Imagine if you were a student studying for a set of exams. Let's work backwards 
 2. learning to the test requires the student repeatedly spending time and effort to memorize relevant material being tested. The student needs free time and energy in order to do this.
 
 3. With good planning and skills aquisition, the student can compress the time and effort needed by other parts of her life, in order to free up time and energy to study. They have to do this ahead of time, because  some of these investments take an amount of time and energy that directly hurts their bottom line of how much they can study. You cannot industrialise without roads and semi-reliable power, and you cannot learn to cook if cooking takes 5 hours due to a cascade of missing groceries and tools.
+
+And apart from tool acquisition, there are other fixed costs.
 
 What is needed?
 -> no more basic concerns: hunger, stress, restedness
@@ -62,6 +73,8 @@ Motivation is the next level of the game. We'll cover that in the second part of
 Now we have an equivalent (if simplified) of the prerequisites that are needed at the bottom level to succeed in studies.
 
 
+
+Time and energy savings (from abstraction and practice of recurring tasks) will increase fiscal capacity. Enforcement mechanisms will increase legal capacity (and social norms will offset this to a significant amount anyway).
 
 ### My Experience
 
