@@ -10,14 +10,23 @@ Argument: due to unforseen reasons, I lacked many of these prerequisites at the 
 
 ### State Capacity
 
-Institutions; state capacity; rules for trade.
+One of my persistent interests, in times of good and bad, is learning about how countries develop. Our living standards have risen greatly, in some countries within the last couple of decades (Korea and China), many-fold. With this surplus comes stability and a better life for all citizens of that country, and many interesting things to talk about, like their cultural exports, and technological ones too. Which makes me interested in development as a robust tool for poverty alleviation.
+
+I like the way a few economic historians talk about it in particular: Fukuyama, Solow, Douglass North.
+
+North talks about institutions. 
+
+Fukuyama talks about state capacity.
+
+Solow talks about capital stock.
+
+The common thread between them is that they study what prerequisites, what quality and quantity of them, at t=0 is necessary or sufficient to make a country grow when you press play. If I'm allowed to be irresponsible with my words, I'd even say they carry on the tradition of "An Inquiry into the Nature and Causes of the Wealth of Nations" by literally trying to investigate the fundamental causes of the wealth of nations in particular.
+
+Institutions; state capacity; rules for trade; capital stock.
 
 
-wht am I trying to say? -> good rules and effective enforcement "state capacity" are needed for development.
 
-One of my persistent interests, in times of good and bad, is learning about how countries develop. Our living standards have risen greatly, in some countries within the last couple of decades (Korea and China), many-fold. With this surplus comes stability and a better life for all citizens of that country, and many interesting things to talk about, like their cultural exports, and technological ones too. I'm interested in development as a robust tool for poverty alleviation.
-
-Here is a simplified model:
+According to me, here is a simplified model:
 
 1. the way out of poverty since the industrial revolution has been a functioning market economy.
 
@@ -25,12 +34,32 @@ Here is a simplified model:
 
 3. the state is normally the one who sets up those conditions: enforcing property rights and rule of law, and providing public goods. So that firms do not have to worry about who is providing a court of arbitrage, protection against robbery, or public goods like a worker base and roads. [state capacity] The state needs to do all these because individual firms are not in a relatively good position to do this.
 
+
+
+
+
+
+I REALIZE I KNOW MORE ABOUT THIS THAN CHEMICAL ENGINEERING OK SHUT UP. UNFORTUNATELY ECONOMICS ISN'T ITSELF A SECTOR WITH HIGH REAL PRODUCTIVITY GROWTH POTENTIAL. IF ONLY IT WAS AS INTERESTING AS FIXING LITERALLY EVERY SINGLE ISSUE FOR A WHOLE SOCIETY AT A TIME.
+
+
+
+
+
+
+good rules and effective enforcement "state capacity" are needed for development.
+
+
+
+
+
+
+
+
 https://mason.gmu.edu/~mkoyama2/About_files/StateCapacitySurvey.pdf
 
 This can be called state capacity. ("State capacity describes the ability of a state to collect taxes, enforce law and order, and provide public goods [banks, trade ministries, courts], and services like education, public health, infrastructure.")
 
 
-I am oversimplifying here and using a lot of words, but these words are back up by emperical observations from historical records that everyone can see, and some that are in living memory.
 
 [developing countries needs stable institutions for development]
 Douglass North
@@ -45,7 +74,9 @@ https://ia902902.us.archive.org/33/items/in.ernet.dli.2015.147391/2015.147391.Ec
 
 State-Building: Governance and World Order in the 21st Century - Fukuyama 
 
+###
 
+CAPEX and shut-off of large chemical processing complexes. Which plants have been treated this way before? Have any been retrofitted and came back online much much better, despite the cost of shutdown and missed production? How did it get retrofitted?
 
 ### Spoon Theory / Maintenance
 
@@ -134,4 +165,4 @@ I have been gaining these foundations at a reliable rate, including having most 
 *Explain it for newcomers to both fields. make it clear that I am organizing my thinking this way because development is the one closest area I know and care about, even if it's not relevant to chemical engineering intuitively."
 
 
-https://www.strangeloopcanon.com/p/rest	
+https://www.strangeloopcanon.com/p/rest
