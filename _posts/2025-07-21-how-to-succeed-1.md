@@ -20,13 +20,12 @@ Fukuyama talks about state capacity.
 
 Solow talks about capital stock.
 
-The common thread between them is that they study what prerequisites, what quality and quantity of them, at t=0 is necessary or sufficient to make a country grow when you press play. If I'm allowed to be irresponsible with my words, I'd even say they carry on the tradition of "An Inquiry into the Nature and Causes of the Wealth of Nations" by literally trying to investigate the fundamental causes of the wealth of nations in particular.
+The common thread between them is that they study what prerequisites, what quality and quantity of them, at t=0 is necessary or sufficient to make a country grow when you press play.
+
 
 Institutions; state capacity; rules for trade; capital stock.
 
-
-
-According to me, here is a simplified model:
+Here is a simplified model:
 
 1. the way out of poverty since the industrial revolution has been a functioning market economy.
 
