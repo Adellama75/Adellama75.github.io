@@ -31,14 +31,10 @@ Here is a simplified model:
 
 2. markets need a certain level of state capacity to function. This includes assurances like property rights and rule of law, and some infrastructure like roads. [growth-promoting, inclusive institutions]
 
-3. the state is normally the one who sets up those conditions: enforcing property rights and rule of law, and providing public goods. So that firms do not have to worry about who is providing a court of arbitrage, protection against robbery, or public goods like a worker base and roads. [state capacity] The state needs to do all these because individual firms are not in a relatively good position to do this.
+3. the state is normally the one who sets up those conditions: enforcing property rights and rule of law, and providing public goods. So that firms do not have to worry about who is providing a court of arbitrage, protection against robbery, or public goods like a worker base and roads. [state capacity] The state needs to do all these because individual firms are not in a good position to do this.
 
 
 
-
-
-
-I REALIZE I KNOW MORE ABOUT THIS THAN CHEMICAL ENGINEERING OK SHUT UP. UNFORTUNATELY ECONOMICS ISN'T ITSELF A SECTOR WITH HIGH REAL PRODUCTIVITY GROWTH POTENTIAL. IF ONLY IT WAS AS INTERESTING AS FIXING LITERALLY EVERY SINGLE ISSUE FOR A WHOLE SOCIETY AT A TIME.
 
 
 
@@ -77,6 +73,8 @@ State-Building: Governance and World Order in the 21st Century - Fukuyama
 
 CAPEX and shut-off of large chemical processing complexes. Which plants have been treated this way before? Have any been retrofitted and came back online much much better, despite the cost of shutdown and missed production? How did it get retrofitted?
 
+Chemical Plants operate on a 3-7 year shutdown cycle. 
+
 ### Spoon Theory / Maintenance
 
 Imagine if you were a student studying for a set of exams. Let's work backwards to find the equivalent minimum list of things that a student would need to get an A on an exam. 
@@ -92,7 +90,10 @@ And apart from tool acquisition, there are other fixed costs.
 What is needed?
 -> no more basic concerns: hunger, stress, restedness
 
+"
+i’m requesting a one-year deferral because i need to trade a short, known delay for durable upgrades to my personal infrastructure. the plan is straightforward: learn to cook so meals aren’t a daily effort drain; lock in a pharmaceutically-assisted sleep schedule; create my workspace so it stays low-friction; practice co-living skills so i can share space without drama; build a small peer circle that keeps me emotionally regulated and study-ready; sharpen new skills against real job roles; tighten grooming and presentation habits; and clarify my family finances so budgeting is predictable. think of it like a chemical plant shutting down for maintenance—scrubbing fouled pipes, swapping a few 1980-era valves, and installing a better control panel—except the plant is me, and the payoff is higher throughput for the rest of my degree. i’ll return in september 2026 with more capacity, less downtime, and zero extra cost to the university.
 
+"
 
 All the rest of the factors that go into "effort" and "time" I'm going to classify as the "foundations" to achieving what you want in education.
 
