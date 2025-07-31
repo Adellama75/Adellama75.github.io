@@ -4,26 +4,29 @@ Prerequisites of a market economy pre-industrialisation include some state capci
 
 There are also prerequisites to being effectively educated, on an individual student level. Of course, individuals (and individual businesses) can buck the trend, but that doesn't stop these prerequisites from being needed in the statistical sense. For a student, prerequisites to succeeding in education include reliable access to food, water, shelter and healthcare that prevents debilitation and that minimises the impact of conditions on ability to study. A student also needs provisions: reliable access to notes to learn from, and for best effect tests to study to. In some curricula the student also needs to learn field-specific software (simulation, modelling, version control) as part of the curriculum.
 
-Argument: due to unforseen reasons, I lacked many of these prerequisites at the beginning of the last year, but I have since been gaining them at a steady pace, and am en route to estimating having all of them in October 2026. (If I don't I would be very surprised.)
+Argument: due to unforseen reasons, I lacked many of these prerequisites at the beginning of the last year, but I have since been gaining them at a steady pace, and am en route to estimating having all of them in October 2026.
 
 
 
 ### State Capacity
 
-One of my persistent interests, in times of good and bad, is learning about how countries develop. Our living standards have risen greatly, in some countries within the last couple of decades (Korea and China), many-fold. With this surplus comes stability and a better life for all citizens of that country, and many interesting things to talk about, like their cultural exports, and technological ones too. Which makes me interested in development as a robust tool for poverty alleviation.
+One of my persistent interests is learning about how countries develop. Our living standards have risen greatly, in some countries within the last couple of decades (Korea and China), many-fold. With this economic surplus comes stability and a better life for all citizens of a country, and many interesting things to talk about, like their cultural and technological exports: K-pop, K-dramas, consumer brands, research. But more basic than that, I'm interested in development as a robust tool for poverty alleviation.
 
 I like the way a few economic historians talk about it in particular: Fukuyama, Solow, Douglass North.
 
 North talks about institutions. 
+[developing countries needs stable institutions for development] 
 
 Fukuyama talks about state capacity.
+[State-Building: Governance and World Order in the 21st Century - Fukuyama ]
 
 Solow talks about capital stock.
+[developing countries need power, water and roads. Without these factors, places do not develop.]
 
-The common thread between them is that they study what prerequisites, what quality and quantity of them, at t=0 is necessary or sufficient to make a country grow when you press play.
+The common thread between them is that they have theories for what prerequisites present at t=0 is necessary and sufficient to make a country grow when you press play.
 
 
-Institutions; state capacity; rules for trade; capital stock.
+Institutions; state capacity; capital stock.
 
 Here is a simplified model:
 
@@ -31,81 +34,52 @@ Here is a simplified model:
 
 2. markets need a certain level of state capacity to function. This includes assurances like property rights and rule of law, and some infrastructure like roads. [growth-promoting, inclusive institutions]
 
-3. the state is normally the one who sets up those conditions: enforcing property rights and rule of law, and providing public goods. So that firms do not have to worry about who is providing a court of arbitrage, protection against robbery, or public goods like a worker base and roads. [state capacity] The state needs to do all these because individual firms are not in a good position to do this.
+3. the state is normally the one who sets up those conditions: enforcing property rights and rule of law, and providing public goods. So that firms do not have to worry about who is providing a court of arbitrage, protection against robbery, or public goods like a worker base and roads. [state capacity]
 
 
 
+---
+aside: resource cursed countries without stable institutions.
+---
 
 
+State capacity describes the ability of a state to collect taxes, enforce law and order, and provide public goods [banks, trade ministries, courts], and services like education, public health, infrastructure. More abstracted, it means governance ability and some fiscal slack. The observable effects of "having state capacity" are that the state can begin to invest in revenue-generating activities. Roads, power, rail, a labour force with basic skills. With this basic level of competency at governance, the state can then invest in incentivising companies to form and for those companies to compete against each other, following the state's incentives, forming an industrial base. https://ia902902.us.archive.org/33/items/in.ernet.dli.2015.147391/2015.147391.Economic-Backwardness-In-Historical-Perspective.pdf
 
 
+Conclusion: there are a set of fundamental things upstream of having an effective economy that must be set up, or else good things don't happen.
 
-
-good rules and effective enforcement "state capacity" are needed for development.
-
-
-
-
-
-
-
-
-https://mason.gmu.edu/~mkoyama2/About_files/StateCapacitySurvey.pdf
-
-This can be called state capacity. ("State capacity describes the ability of a state to collect taxes, enforce law and order, and provide public goods [banks, trade ministries, courts], and services like education, public health, infrastructure.")
-
-
-
-[developing countries needs stable institutions for development]
-Douglass North
-
-resource cursed countries without stable institutions???
-
-developing countries need power, water and roads. Without these factors, places do not develop.
-
-State capacity means governance ability and some fiscal slack. The effects of having this are that the state can begin to invest in revenue-generating activities. Roads, power, rail, a labour force with basic skills. With this basic level of competency at governance, the state can then invest in incentivising companies to form and for those companies to compete against each other, following the state's incentives, forming an industrial base.
-
-https://ia902902.us.archive.org/33/items/in.ernet.dli.2015.147391/2015.147391.Economic-Backwardness-In-Historical-Perspective.pdf
-
-State-Building: Governance and World Order in the 21st Century - Fukuyama 
 
 ###
 
+Chemical Plants operate on a 3-7 year shutdown cycle. 
+
 CAPEX and shut-off of large chemical processing complexes. Which plants have been treated this way before? Have any been retrofitted and came back online much much better, despite the cost of shutdown and missed production? How did it get retrofitted?
 
-Chemical Plants operate on a 3-7 year shutdown cycle. 
+
 
 ### Spoon Theory / Maintenance
 
-Imagine if you were a student studying for a set of exams. Let's work backwards to find the equivalent minimum list of things that a student would need to get an A on an exam. 
+Imagine if you were a student studying for a set of exams. Let's work backwards to find the equivalent mechanistic list of things that a student would need to get an A in the exams. 
 
 1. The way to ace exams is 80% accounted for by learning to the test.
 
 2. learning to the test requires the student repeatedly spending time and effort to memorize relevant material being tested. The student needs free time and energy in order to do this.
 
-3. With good planning and skills aquisition, the student can compress the time and effort needed by other parts of her life, in order to free up time and energy to study. They have to do this ahead of time, because  some of these investments take an amount of time and energy that directly hurts their bottom line of how much they can study. You cannot industrialise without roads and semi-reliable power, and you cannot learn to cook if cooking takes 5 hours due to a cascade of missing groceries and tools.
+3. With good planning and skills aquisition, the student can compress the time and effort needed by other parts of her life, in order to free up time and energy to study. She has to do this ahead of time, because  some of these investments take an amount of time and energy that directly hurts her bottom line of how much she can study daily. 
 
-And apart from tool acquisition, there are other fixed costs.
+You cannot industrialise without roads and semi-reliable power, and it's very difficult to learn to cook if cooking takes 5 hours due to a cascade of missing groceries and tools.
 
-What is needed?
+
+
+Can we work out an exclusive, mutually exhaustive set of factors for the student to cover? Even if emperically.
 -> no more basic concerns: hunger, stress, restedness
-
-"
-i’m requesting a one-year deferral because i need to trade a short, known delay for durable upgrades to my personal infrastructure. the plan is straightforward: learn to cook so meals aren’t a daily effort drain; lock in a pharmaceutically-assisted sleep schedule; create my workspace so it stays low-friction; practice co-living skills so i can share space without drama; build a small peer circle that keeps me emotionally regulated and study-ready; sharpen new skills against real job roles; tighten grooming and presentation habits; and clarify my family finances so budgeting is predictable. think of it like a chemical plant shutting down for maintenance—scrubbing fouled pipes, swapping a few 1980-era valves, and installing a better control panel—except the plant is me, and the payoff is higher throughput for the rest of my degree. i’ll return in september 2026 with more capacity, less downtime, and zero extra cost to the university.
-
-"
-
-All the rest of the factors that go into "effort" and "time" I'm going to classify as the "foundations" to achieving what you want in education.
-
-Motivation is the next level of the game. We'll cover that in the second part of the series. 
-
-
+-> All the rest of the factors that go into "effort" and "time" I'm going to classify as the "foundations" to achieving what you want in education.
 
 Now we have an equivalent (if simplified) of the prerequisites that are needed at the bottom level to succeed in studies.
 
+Time and energy savings (from abstraction and practice of recurring tasks) will increase fiscal capacity. Enforcement mechanisms will increase legal capacity.
 
-
-Time and energy savings (from abstraction and practice of recurring tasks) will increase fiscal capacity. Enforcement mechanisms will increase legal capacity (and social norms will offset this to a significant amount anyway).
+(Motivation is the next level of the game. Right now let's assume that's a given, but we'll cover that in the second part of the series.)
 
 ### My Experience
 
@@ -153,16 +127,21 @@ I've raised state capacity. that translates straight into:
 - stable, linear slack that is generated again and again. — same math as countries finally breaking transport bottlenecks and watching exports explode. Solow's Model.
     
 
-**GROUND ABSTRACT CONCEPTS WITH EXAMPLES**
-use concrete analogy on JUST HOW BAD missing sleep screws a person *or* the same for component defects in engineering systems. lean into specifics + humor.
-
-
 
 I have been gaining these foundations at a reliable rate, including having most of them already, compared  to a year ago. A year ago, I didn't have any of this, and made enough mistakes to learn how to solve them.
 
+"""
+i’m requesting a one-year deferral because i need to trade a short, known delay for durable upgrades to my personal infrastructure. the plan is straightforward: learn to cook so meals aren’t a daily effort drain; lock in a pharmaceutically-assisted sleep schedule; create my workspace so it stays low-friction; practice co-living skills so i can share space without drama; build a small peer circle that keeps me emotionally regulated and study-ready; sharpen new skills against real job roles; tighten grooming and presentation habits; and clarify my family finances so budgeting is predictable. think of it like a chemical plant shutting down for maintenance—scrubbing fouled pipes, swapping a few 1980-era valves, and installing a better control panel—except the plant is me, and the payoff is higher throughput for the rest of my degree. i’ll return in september 2026 with more capacity, less downtime, and zero extra cost to the university.
+"""
+
+**GROUND ABSTRACT CONCEPTS WITH EXAMPLES**
+use concrete analogy on JUST HOW BAD missing sleep screws a person *or* the same for component defects in engineering systems. lean into specifics + humor.
+
+Explain it for newcomers to both fields. make it clear that I am organizing my thinking this way because development is the one closest area I know and care about, even if it's not relevant to chemical engineering intuitively.
 
 
-*Explain it for newcomers to both fields. make it clear that I am organizing my thinking this way because development is the one closest area I know and care about, even if it's not relevant to chemical engineering intuitively."
 
 
-https://www.strangeloopcanon.com/p/rest
+
+further: 
+- https://www.strangeloopcanon.com/p/rest
