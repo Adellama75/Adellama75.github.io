@@ -81,6 +81,8 @@ Time and energy savings (from abstraction and practice of recurring tasks) will 
 
 (Motivation is the next level of the game. Right now let's assume that's a given, but we'll cover that in the second part of the series.)
 
+
+
 ### My Experience
 
 Do I have these foundations?
@@ -91,9 +93,6 @@ A year ago, not necessarily. Right now, yes! We have increased state capacity, b
 1.  a human needs a set of foundations to sustain itself and generate enough slack that can be reinvested into education and skills practice. These two are seperate but connected.
 
 I have been a resource cursed person. Finding early and middle education easy is not naturaly amenable to developing functioning governing institutions. (legacy businesses that do not or can not innovate)
-
-
-
 
 What things have I accumulated since last year?
 
@@ -123,16 +122,21 @@ almost there:
 
 I've raised state capacity. that translates straight into:
 - lower marginal cost of one deep‑work hour
-- bigger slack buffer you can reinvest in upskilling
-- stable, linear slack that is generated again and again. — same math as countries finally breaking transport bottlenecks and watching exports explode. Solow's Model.
+- bigger slack buffer I can reinvest in upskilling
+- stable, linear slack that is generated again and again. — same math as countries finally breaking transport bottlenecks and watching exports explode.
     
-
 
 I have been gaining these foundations at a reliable rate, including having most of them already, compared  to a year ago. A year ago, I didn't have any of this, and made enough mistakes to learn how to solve them.
 
+
+TL;DR:
 """
 i’m requesting a one-year deferral because i need to trade a short, known delay for durable upgrades to my personal infrastructure. the plan is straightforward: learn to cook so meals aren’t a daily effort drain; lock in a pharmaceutically-assisted sleep schedule; create my workspace so it stays low-friction; practice co-living skills so i can share space without drama; build a small peer circle that keeps me emotionally regulated and study-ready; sharpen new skills against real job roles; tighten grooming and presentation habits; and clarify my family finances so budgeting is predictable. think of it like a chemical plant shutting down for maintenance—scrubbing fouled pipes, swapping a few 1980-era valves, and installing a better control panel—except the plant is me, and the payoff is higher throughput for the rest of my degree. i’ll return in september 2026 with more capacity, less downtime, and zero extra cost to the university.
 """
+
+---
+
+WRITING NOTES.
 
 **GROUND ABSTRACT CONCEPTS WITH EXAMPLES**
 use concrete analogy on JUST HOW BAD missing sleep screws a person *or* the same for component defects in engineering systems. lean into specifics + humor.
