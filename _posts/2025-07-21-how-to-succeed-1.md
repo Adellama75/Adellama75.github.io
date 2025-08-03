@@ -40,8 +40,8 @@ Here is a simplified model:
 
 ---
 aside: resource cursed countries without stable institutions.
----
 
+---
 
 State capacity describes the ability of a state to collect taxes, enforce law and order, and provide public goods [banks, trade ministries, courts], and services like education, public health, infrastructure. More abstracted, it means governance ability and some fiscal slack. The observable effects of "having state capacity" are that the state can begin to invest in revenue-generating activities. Roads, power, rail, a labour force with basic skills. With this basic level of competency at governance, the state can then invest in incentivising companies to form and for those companies to compete against each other, following the state's incentives, forming an industrial base. https://ia902902.us.archive.org/33/items/in.ernet.dli.2015.147391/2015.147391.Economic-Backwardness-In-Historical-Perspective.pdf
 
@@ -81,34 +81,34 @@ Time and energy savings (from abstraction and practice of recurring tasks) will 
 
 (Motivation is the next level of the game. Right now let's assume that's a given, but we'll cover that in the second part of the series.)
 
+*time discounting is the more general mechanism by which stress and tiredness acts on ability to settle down and study. More stress means lower time horizon and higher discounting meaning less motivation for long-term investments (like studying generally is). Ways to diminish this effect including making studying an activity with very small time delay of payoff, as well as reducing stress by streamlining otehr activities. The second part fits here, the first part fits in the second section.
 
 
 ### My Experience
-
 Do I have these foundations?
 
 A year ago, not necessarily. Right now, yes! We have increased state capacity, by a lot.
 
+1.  a human needs a set of foundations to sustain itself and generate enough slack that can be reinvested into education and skills practice. These two are seperate but connected. motivation is the causal mechanism of this: stress means less motivation to invest in the future, and more motivation to fix things now.
 
-1.  a human needs a set of foundations to sustain itself and generate enough slack that can be reinvested into education and skills practice. These two are seperate but connected.
-
-I have been a resource cursed person. Finding early and middle education easy is not naturaly amenable to developing functioning governing institutions. (legacy businesses that do not or can not innovate)
+I have been a resource cursed person. Finding early and middle education easy is not naturaly amenable to developing functioning governing institutions. But rent-seeking is not a sustainable mode of operation, and I am working on reinvent myself to be good at the tasks I am asked to perform today, and stay competitive.
 
 What things have I accumulated since last year?
 
 - ability to make food (causes a lot less stress now) == stability, reduced reliance on aid
 
 - a stable sleep routine (pharmaceutically assisted) == stable, planned maintenance for uptime
+	-> we fixed it my temporarily going on sleep meds, for a couple of months, and coming off them.
 - ability to maintain a comfortable working space (hygiene and maintanence) == stable, ongoing maintenance of hard infrastructure for reliability
 
-- ability to live with others (how to interact with them) == basic diplomacy, not cause problems
+- ability to live with others (how to interact with them)
 
-- friends to help me with being emotionally regulated and available to study == state governing capacity, slack
+- friends to help me with being emotionally regulated and available to study - reducing bad emotional variance. == disaster management capacity
 
-- a better general direction in terms of awareness of skills and working roles. Models like Anson Yu, etc. == beginning state capacity, consensus on what they want to do
+- a better general direction in terms of awareness of skills and working roles. Models like Anson Yu, Hudzah, and friends like Yoyo and Fish
 
-- better at feeling comfortable in public and in presentations (grooming, clothes) == ability to negotiate and trade
-- financial clarity and security (family situation finally becoming stable and me being aware of it) == balanced, stable, plannable budget
+- better at feeling comfortable in public and in presentations (grooming, clothes) - ability to negotiate and trade with the wider world
+- financial clarity and security (family situation finally becoming stable and me being aware of it)
 
 
 
@@ -123,8 +123,9 @@ almost there:
 I've raised state capacity. that translates straight into:
 - lower marginal cost of one deep‑work hour
 - bigger slack buffer I can reinvest in upskilling
-- stable, linear slack that is generated again and again. — same math as countries finally breaking transport bottlenecks and watching exports explode.
-    
+- stable, linear slack that is generated again and again.
+
+all of this mean you should expect me to perform at a much higher baseline rate, in my next year in university.    
 
 I have been gaining these foundations at a reliable rate, including having most of them already, compared  to a year ago. A year ago, I didn't have any of this, and made enough mistakes to learn how to solve them.
 
@@ -136,12 +137,14 @@ i’m requesting a one-year deferral because i need to trade a short, known dela
 
 ---
 
-WRITING NOTES.
+SECOND DRAFT:
+
+Written for university department admissions tutor.
 
 **GROUND ABSTRACT CONCEPTS WITH EXAMPLES**
-use concrete analogy on JUST HOW BAD missing sleep screws a person *or* the same for component defects in engineering systems. lean into specifics + humor.
+use concrete analogy on JUST HOW BAD missing sleep screws a person; if relevant, compare (loosely) to component defects in engineering systems. lean into specifics + humor. 
 
-Explain it for newcomers to both fields. make it clear that I am organizing my thinking this way because development is the one closest area I know and care about, even if it's not relevant to chemical engineering intuitively.
+Explain it for newcomers to both fields. make it clear that I am organizing my thinking this way because int'l development is the one closest area I know and care about, even if it's not relevant to chemical engineering intuitively.
 
 
 
