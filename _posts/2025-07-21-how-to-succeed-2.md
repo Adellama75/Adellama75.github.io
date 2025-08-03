@@ -50,3 +50,5 @@ reinforcement learning applied to people:
 immediate, specific rewards.
 
 modelling self as a system 1 reinforcement learning agent.
+
+Goal: I am NEVER FAILING AGAIN.
