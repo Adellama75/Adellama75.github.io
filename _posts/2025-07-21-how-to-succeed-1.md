@@ -1,6 +1,6 @@
 ## Foundations
 
-A necessary prerequisite of a market economy before it can industrialise is state capcity - which means the ability of a government to enforce laws and collect taxes. Tax collection goes to fund enforcement of laws (best examples: contracts and property rights) as well as public goods - like roads, power, water, and public education. 
+A necessary prerequisite of a market economy before it can industrialise is state capcity - meaning the ability of a government to enforce laws and collect taxes. Tax collection goes to fund enforcement of laws (best examples: contracts and property rights) as well as public goods - like roads, power, water, and public education. 
 
 These are prerequisites because it allows smaller businesses to not worry about the provision of these services at scale, whose benefit is diffuse and which they cannot individually fully enjoy. If provided to a sufficient quality and quantity, the provision of these services can be "abstracted away" from businesses to the state.
 
@@ -16,7 +16,7 @@ While not realising it, I lacked many of these prerequisites at the beginning of
 
 ### State Capacity
 
-One of my persistent interests is learning about how countries develop. Our living standards have risen greatly, in some countries within the last couple of decades (Korea and China), many-fold. With this economic surplus comes stability and a better life for all citizens of a country, and many interesting things to talk about, like their cultural and technological exports: K-pop, K-dramas, consumer brands, research. But more basic than that, economics development is also a robust tool for poverty alleviation - something that many of us in the first world fail to appreciate.
+One of my persistent interests is learning about how countries develop. Our living standards have risen greatly, in some countries within the last couple of decades (Korea and China), many-fold. With this economic surplus comes stability and a better life for all citizens of a country, and many interesting things to talk about: K-pop, K-dramas, new better consumer brands, scientific research results. But more basic than that, economics development is also a robust tool for poverty alleviation.
 
 I like the way a few economic historians talk about it in particular: Fukuyama, Solow, Douglass North.
 
@@ -29,10 +29,7 @@ Fukuyama talks about state capacity.
 Solow talks about capital stock.
 [developing countries need power, water and roads. Without these factors, places do not develop.]
 
-The common thread between them is that they have theories for what prerequisites present at t=0 is necessary and sufficient to make a country grow when you press play.
-
-
-Institutions; state capacity; capital stock.
+The common thread between them is that they have theories for what prerequisites present at t=0 are necessary and sufficient to make a country grow, once you press play.
 
 Here is a simplified model:
 
@@ -43,9 +40,10 @@ Here is a simplified model:
 3. the state is normally the one who sets up those conditions: enforcing property rights and rule of law, and providing public goods. So that firms do not have to worry about who is providing a court of arbitrage, protection against robbery, or public goods like a worker base and roads. [state capacity]
 
 
-
 ---
 aside: resource cursed countries without stable institutions.
+
+The flip side : resource cursed countries.
 
 ---
 
@@ -53,14 +51,6 @@ State capacity describes the ability of a state to collect taxes, enforce law an
 
 
 Conclusion: there are a set of fundamental things upstream of having an effective economy that must be set up, or else good things don't happen.
-
-
-###
-
-Chemical Plants operate on a 3-7 year shutdown cycle. 
-
-CAPEX and shut-off of large chemical processing complexes. Which plants have been treated this way before? Have any been retrofitted and came back online much much better, despite the cost of shutdown and missed production? How did it get retrofitted?
-
 
 
 ### Spoon Theory / Maintenance
@@ -71,13 +61,14 @@ Imagine if you were a student studying for a set of exams. Let's work backwards 
 
 2. learning to the test requires the student repeatedly spending time and effort to memorize relevant material being tested. The student needs free time and energy in order to do this.
 
-3. With good planning and skills aquisition, the student can compress the time and effort needed by other parts of her life, in order to free up time and energy to study. She has to do this ahead of time, because  some of these investments take an amount of time and energy that directly hurts her bottom line of how much she can study daily. 
+3. With good planning and skills aquisition, the student can compress the time and effort needed by other parts of her life, in order to free up time and energy to study. She has to do this ahead of time, because  some of these investments take an amount of time and energy that directly hurts her bottom line of how much she can put towards studying daily. 
 
-You cannot industrialise without roads and semi-reliable power, and it's very difficult to learn to cook if cooking takes 5 hours due to a cascade of missing groceries and tools.
+You cannot industrialise without roads and semi-reliable power; it's very difficult to learn to cook if cooking takes 5 hours due to a cascade of missing groceries and tools.
 
 
 
-Can we work out an exclusive, mutually exhaustive set of factors for the student to cover? Even if emperically.
+Can we work out a mutually exclusive, collectively exaustive set of factors for the student to cover (Even if emperically)? Let's try to.
+
 -> no more basic concerns: hunger, stress, restedness
 -> All the rest of the factors that go into "effort" and "time" I'm going to classify as the "foundations" to achieving what you want in education.
 
@@ -85,9 +76,10 @@ Now we have an equivalent (if simplified) of the prerequisites that are needed t
 
 Time and energy savings (from abstraction and practice of recurring tasks) will increase fiscal capacity. Enforcement mechanisms will increase legal capacity.
 
-(Motivation is the next level of the game. Right now let's assume that's a given, but we'll cover that in the second part of the series.)
 
-*time discounting is the more general mechanism by which stress and tiredness acts on ability to settle down and study. More stress means lower time horizon and higher discounting meaning less motivation for long-term investments (like studying generally is). Ways to diminish this effect including making studying an activity with very small time delay of payoff, as well as reducing stress by streamlining otehr activities. The second part fits here, the first part fits in the second section.
+
+Time discounting is the more general mechanism by which stress and tiredness acts on ability to settle down and study. More stress means lower time horizon and higher discounting meaning less motivation for long-term investments (like studying is). Ways to diminish this effect including as well as reducing ongoing stress by streamlining other activities [PREREQUISITES], as well as making studying an activity with a very small time delay to payoff [MOTIVATION] (which we will talk about in the next part of this series).
+
 
 
 ### My Experience
@@ -136,10 +128,21 @@ all of this mean you should expect me to perform at a much higher baseline rate,
 I have been gaining these foundations at a reliable rate, including having most of them already, compared  to a year ago. A year ago, I didn't have any of this, and made enough mistakes to learn how to solve them.
 
 
+###
+
+Chemical Plants operate on a 3-7 year shutdown cycle. 
+
+CAPEX and shut-off of large chemical processing complexes. Which plants have been treated this way before? Have any been retrofitted and came back online much much better, despite the cost of shutdown and missed production? How did it get retrofitted?
+
+
+
 TL;DR:
 """
 i’m requesting a one-year deferral because i need to trade a short, known delay for durable upgrades to my personal infrastructure. the plan is straightforward: learn to cook so meals aren’t a daily effort drain; lock in a pharmaceutically-assisted sleep schedule; create my workspace so it stays low-friction; practice co-living skills so i can share space without drama; build a small peer circle that keeps me emotionally regulated and study-ready; sharpen new skills against real job roles; tighten grooming and presentation habits; and clarify my family finances so budgeting is predictable. think of it like a chemical plant shutting down for maintenance—scrubbing fouled pipes, swapping a few 1980-era valves, and installing a better control panel—except the plant is me, and the payoff is higher throughput for the rest of my degree. i’ll return in september 2026 with more capacity, less downtime, and zero extra cost to the university.
 """
+
+
+
 
 ---
 
@@ -158,3 +161,4 @@ Explain it for newcomers to both fields. make it clear that I am organizing my t
 
 further: 
 - https://www.strangeloopcanon.com/p/rest
+- https://worksinprogress.co/issue/the-maintenance-race/
