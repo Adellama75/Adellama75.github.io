@@ -5,14 +5,18 @@ A necessary prerequisite of a market economy before it can industrialise is stat
 These are prerequisites because it allows smaller businesses to not worry about the provision of these services at scale, whose benefit is diffuse and which they cannot individually fully enjoy. If provided to a sufficient quality and quantity, the provision of these services can be "abstracted away" from businesses to the state.
 
 
-There are also prerequisites to being effectively educated, on an individual student level. (Of course, individuals can buck the trend, but that doesn't stop these prerequisites from being necessary in the statistical sense.) For a student, prerequisites to succeeding in education include reliable access to food, water, shelter and healthcare that prevents debilitation and that minimises the impact of conditions on ability to study. A student also needs provisions: reliable access to notes to learn from, and for best effect tests to study to. In some curricula the student also needs to learn field-specific software (simulation, modelling, version control) as part of the curriculum.
+There are also prerequisites to being effectively educated, on an individual student level. (of course, individuals can buck the trend, but that doesn't stop these prerequisites from being needed in the statistical sense.) For a student, these include reliable access to food, water, shelter and healthcare that prevents debilitation and minimises the impact of existing conditions on ability to study. In my view, these are like the overhead items provided by the state for firms - things that are necessary to have, but too complicated to reinvent for each individual in the day-to-day, and allows them to be resilient against setbacks.
 
-Argument: due to unforseen reasons, I lacked many of these prerequisites at the beginning of the last year, but I have since been gaining them at a steady pace, and am en route to estimating having all of them in October 2026.
+
+After that, a student (given they are at least average smart) only needs a couple of course-related things: reliable access to notes to learn from, mock tests to study to, and often field-specific software (simulation, version control software) - to be fully effective in meeting requirements.
+
+
+While not realising it, I lacked many of these prerequisites at the beginning of the last year, but I have since been gaining them at a steady pace, and am en route to having all of them by October 2026. I firmly believe it's not magic that determines whether someone fails or succeeds at a given task, just prerequisites we can mark and kill with time and the correct procedure followed.
 
 
 ### State Capacity
 
-One of my persistent interests is learning about how countries develop. Our living standards have risen greatly, in some countries within the last couple of decades (Korea and China), many-fold. With this economic surplus comes stability and a better life for all citizens of a country, and many interesting things to talk about, like their cultural and technological exports: K-pop, K-dramas, consumer brands, research. But more basic than that, I'm interested in development as a robust tool for poverty alleviation.
+One of my persistent interests is learning about how countries develop. Our living standards have risen greatly, in some countries within the last couple of decades (Korea and China), many-fold. With this economic surplus comes stability and a better life for all citizens of a country, and many interesting things to talk about, like their cultural and technological exports: K-pop, K-dramas, consumer brands, research. But more basic than that, economics development is also a robust tool for poverty alleviation - something that many of us in the first world fail to appreciate.
 
 I like the way a few economic historians talk about it in particular: Fukuyama, Solow, Douglass North.
 
