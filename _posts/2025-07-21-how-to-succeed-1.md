@@ -1,11 +1,13 @@
 ## Foundations
 
-Prerequisites of a market economy pre-industrialisation include some state capcity - ability of the state to enforce laws (best example: contracts and property rights) and collect taxes. Tax collection goes to fund enforcement as well as public goods - ideally some of roads, power, water, public education. These are prerequisites because it allows smaller businesses to not worry about the provision of these services at scale, whose benefit is diffuse and which they cannot individually fully enjoy - in practice, if provided to a sufficient quality and extent, worrying about these things can be "abstracted away" from businesses to the state.
+A necessary prerequisite of a market economy before it can industrialise is state capcity - which means the ability of a government to enforce laws and collect taxes. Tax collection goes to fund enforcement of laws (best examples: contracts and property rights) as well as public goods - like roads, power, water, and public education. 
 
-There are also prerequisites to being effectively educated, on an individual student level. Of course, individuals (and individual businesses) can buck the trend, but that doesn't stop these prerequisites from being needed in the statistical sense. For a student, prerequisites to succeeding in education include reliable access to food, water, shelter and healthcare that prevents debilitation and that minimises the impact of conditions on ability to study. A student also needs provisions: reliable access to notes to learn from, and for best effect tests to study to. In some curricula the student also needs to learn field-specific software (simulation, modelling, version control) as part of the curriculum.
+These are prerequisites because it allows smaller businesses to not worry about the provision of these services at scale, whose benefit is diffuse and which they cannot individually fully enjoy. If provided to a sufficient quality and quantity, the provision of these services can be "abstracted away" from businesses to the state.
+
+
+There are also prerequisites to being effectively educated, on an individual student level. (Of course, individuals can buck the trend, but that doesn't stop these prerequisites from being necessary in the statistical sense.) For a student, prerequisites to succeeding in education include reliable access to food, water, shelter and healthcare that prevents debilitation and that minimises the impact of conditions on ability to study. A student also needs provisions: reliable access to notes to learn from, and for best effect tests to study to. In some curricula the student also needs to learn field-specific software (simulation, modelling, version control) as part of the curriculum.
 
 Argument: due to unforseen reasons, I lacked many of these prerequisites at the beginning of the last year, but I have since been gaining them at a steady pace, and am en route to estimating having all of them in October 2026.
-
 
 
 ### State Capacity
@@ -75,7 +77,7 @@ Can we work out an exclusive, mutually exhaustive set of factors for the student
 -> no more basic concerns: hunger, stress, restedness
 -> All the rest of the factors that go into "effort" and "time" I'm going to classify as the "foundations" to achieving what you want in education.
 
-Now we have an equivalent (if simplified) of the prerequisites that are needed at the bottom level to succeed in studies.
+Now we have an equivalent (if simplified) of the prerequisites that are needed to succeed in studies.
 
 Time and energy savings (from abstraction and practice of recurring tasks) will increase fiscal capacity. Enforcement mechanisms will increase legal capacity.
 
