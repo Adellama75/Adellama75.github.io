@@ -11,7 +11,7 @@ There are also prerequisites to being effectively educated, on an individual stu
 After that, a student (given they are at least average smart) only needs a couple of course-related things: reliable access to notes to learn from, mock tests to study to, and often field-specific software (simulation, version control software) - to be fully effective in meeting requirements.
 
 
-While not realising it, I lacked many of these prerequisites at the beginning of the last year, but I have since been gaining them at a steady pace, and am en route to having all of them by October 2026. I firmly believe it's not magic that determines whether someone fails or succeeds at a given task, just prerequisites we can mark and kill with time and the correct procedure followed.
+While not realising it, I lacked many of these prerequisites at the beginning of the last year, but I have since been gaining them at a steady pace, and am en route to having all of them by October 2026. I firmly believe it's not magic that determines whether someone fails or succeeds at a given task, just prerequisites we can mark and kill with time and the correct procedures followed.
 
 
 ### State Capacity
@@ -25,9 +25,9 @@ Here is a simplified model:
 
 1. the way out of poverty since the industrial revolution has been a functioning market economy, one that manufactures.
 
-2. markets need a certain level of state capacity to function. This includes assurances like property rights and rule of law, and some infrastructure like roads. [growth-promoting, inclusive institutions]
+2. markets need a certain level of state capacity to function. This includes assurances like property rights and rule of law, and some infrastructure like roads. https://www.intereconomics.eu/contents/year/2019/number/3/article/inclusive-growth-institutions-matter.html
 
-3. the state is normally the one who sets up those conditions: enforcing property rights and rule of law, and providing public goods. So that firms do not have to worry about who is providing a court of arbitrage, protection against robbery, or public goods like a worker base and roads. [state capacity]
+3. the state is normally the one who sets up those conditions: enforcing property rights and rule of law, and providing public goods. So that firms do not have to worry about who is providing a court of arbitrage, protection against robbery, or public goods like an existing worker base and roads.
 
 
 ---
@@ -35,12 +35,12 @@ Resource cursed countries often don't evolve state capacity.
 
 ---
 
-State capacity describes the ability of a state to collect taxes, enforce law and order, and provide public goods [banks, trade ministries, courts], and services like education, public health, infrastructure. More abstracted, it means governance ability and some fiscal slack. The observable effects of "having state capacity" are that the state can begin to invest in revenue-generating activities. Roads, power, rail, a labour force with basic skills. With this basic level of competency at governance, firms are possible to form and if an open, competitive environment is maintained, those companies would compete against each other, in the process creating an industrial base. https://ia902902.us.archive.org/33/items/in.ernet.dli.2015.147391/2015.147391.Economic-Backwardness-In-Historical-Perspective.pdf
+State capacity describes the ability of a state to collect taxes, enforce law and order, and provide public goods [https://www.investopedia.com/terms/p/public-good.asp], and services like education, public health, infrastructure. More abstracted, it means governance ability and some fiscal slack. The observable effects of "having state capacity" are that the state can begin to invest in revenue-generating activities. Roads, power, rail, a labour force with basic skills. With this basic level of competency at governance, firms are possible to form and if an open, competitive environment is maintained, those companies would compete against each other, in the process creating an industrial base. https://ia902902.us.archive.org/33/items/in.ernet.dli.2015.147391/2015.147391.Economic-Backwardness-In-Historical-Perspective.pdf
 
-The takeaway is that there are a set of fundamental things upstream of having an effective economy that must be set up, or else good things don't happen.
+The takeaway is that there are a set of fundamental things upstream of having an effective economy that must be set up, or else good things don't happen and countries don't develop.
 
 
-### Spoon Theory / Maintenance
+### The Maintenance Race
 
 Imagine if you were a student studying for a set of exams. Let's work backwards to find the equivalent mechanistic list of things that a student would need to get an A in the exams. 
 
@@ -48,22 +48,16 @@ Imagine if you were a student studying for a set of exams. Let's work backwards 
 
 2. learning to the test requires the student repeatedly spending time and effort to memorize relevant material being tested. The student needs free time and energy in order to do this, of which there is limited per day.
 
-3. With good planning and skills aquisition, the student can compress the time and effort needed by other parts of her life, in order to free up time and energy to study. She has to do this ahead of time, because  some of these investments take an amount of time and energy that directly hurts her bottom line of how much she can put towards studying each day. For example, it's very difficult to learn to cook if cooking takes 3 hours due to missing ingredients and tools and not knowing how to cut vegetables.
+3. With good planning and skills aquisition, the student can compress the time and effort needed by other parts of her life, in order to free up time and energy to study. She has to do this ahead of time, because  some of these investments take an amount of time and energy that directly hurts her bottom line of how much time and energy she can put towards studying each day. For example, it's very difficult to learn to cook if cooking takes 3 hours due to missing ingredients and tools and unfamiliarity with cutting vegetables.
 
 
 Can we work out a mutually exclusive, collectively exaustive set of factors for the student to cover? In general, it's short-term worries over long-term worries. To have food takes time and effort (whether via money, travel, or preparation time), using up a part of the day and, even if slightly unpredictable, adds a some amount of stress to the day.
 
 Time discounting is the basic mechanism by which stress and tiredness acts on ability to settle down and study. More stress means lower time horizon and higher discounting meaning less motivation for long-term investments (like studying is). Ways to diminish this effect (as well as reducing ongoing stress) include streamlining other activities [PREREQUISITES] and making studying an activity with a very small time delay to payoff [MOTIVATION].
 
-There are generally ways to transmute stressors into other types of stressors. For example, if hunger is a current stressor, there are options to use different amounts of time or money to acquire food, transmuting a need for food to a need for time, effort or money. Everything outside of motivation could be reduced, in my thinking, to one of time, effort and money (none of which are infinite). 
+There are generally ways to transmute stressors into other types of stressors. For example, if hunger is a current stressor, there are options to use different amounts of time or money to acquire food, transmuting a need for food to a need for time, energy or money. Everything more complicated but defined such as "access to healthcare" could be reduced, in my opinion, to a mix of time, energy and money (which are interchangable to an extent, while none of which are infinite). 
 
-
-
-Now we have an equivalent (if simplified) of the prerequisites that are needed to succeed in studies. Time and energy savings (from abstraction and practice of recurring tasks) will increase personal executive capacity.
-
-
-
-Enforcement mechanisms, when they are set up, will increase [MOTIVATION].
+Now we have an equivalent (if simplified) set of the fundamental things that are needed to succeed in studies. Time and energy savings (from abstraction and practice of recurring tasks) will increase personal executive capacity. For our special case, money can be assumed to be held constant, but still not infinite, through parental transfers.
 
 
 
@@ -91,7 +85,10 @@ What things have I accumulated since last year?
 almost there:
 - exercise
 - self-built system to process notes (put them into a standard format)
-- task monitoring and priorotisation software (with points as real rewards)
+
+
+
+task monitoring and priorotisation software (with points as real rewards) and related enforcement mechanisms, when they are set up, will increase [MOTIVATION] which increases the energy available for a task (not time or money).
 
 
 "long-term goals will no longer get vetoed by short-term crises." there will be less variation on output ability.
