@@ -1,6 +1,6 @@
 ## Foundations
 
-A necessary prerequisite of a market economy before it can industrialise is state capcity - meaning the ability of a government to enforce laws and collect taxes. Tax collection goes to fund enforcement of laws (best examples: contracts and property rights) as well as public goods - like roads, power, water, and public education. 
+A necessary prerequisite of a market economy before it can industrialise is state capacity - meaning the ability of a government to enforce laws and collect taxes. Tax collection goes to fund enforcement of laws (best examples: contracts and property rights) as well as public goods - like roads, power, water, and public education. 
 
 These are prerequisites because it allows smaller businesses to not worry about the provision of these services at scale, whose benefit is diffuse and which they cannot individually fully enjoy. If provided to a sufficient quality and quantity, the provision of these services can be "abstracted away" from businesses to the state.
 
@@ -50,7 +50,7 @@ The flip side : resource cursed countries.
 State capacity describes the ability of a state to collect taxes, enforce law and order, and provide public goods [banks, trade ministries, courts], and services like education, public health, infrastructure. More abstracted, it means governance ability and some fiscal slack. The observable effects of "having state capacity" are that the state can begin to invest in revenue-generating activities. Roads, power, rail, a labour force with basic skills. With this basic level of competency at governance, the state can then invest in incentivising companies to form and for those companies to compete against each other, following the state's incentives, forming an industrial base. https://ia902902.us.archive.org/33/items/in.ernet.dli.2015.147391/2015.147391.Economic-Backwardness-In-Historical-Perspective.pdf
 
 
-Conclusion: there are a set of fundamental things upstream of having an effective economy that must be set up, or else good things don't happen.
+The takeaway is that there are a set of fundamental things upstream of having an effective economy that must be set up, or else good things don't happen.
 
 
 ### Spoon Theory / Maintenance
@@ -87,7 +87,7 @@ Do I have these foundations?
 
 A year ago, not necessarily. Right now, yes! We have increased state capacity, by a lot.
 
-1.  a human needs a set of foundations to sustain itself and generate enough slack that can be reinvested into education and skills practice. These two are seperate but connected. motivation is the causal mechanism of this: stress means less motivation to invest in the future, and more motivation to fix things now.
+1. a human needs a set of foundations to sustain itself and generate enough slack that can be reinvested into education and skills practice. These two are seperate but connected. motivation is the causal mechanism of this: stress means less motivation to invest in the future, and more motivation to fix things now.
 
 I have been a resource cursed person. Finding early and middle education easy is not naturaly amenable to developing functioning governing institutions. But rent-seeking is not a sustainable mode of operation, and I am working on reinvent myself to be good at the tasks I am asked to perform today, and stay competitive.
 
