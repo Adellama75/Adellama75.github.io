@@ -18,13 +18,12 @@ While not realising it, I lacked many of these prerequisites at the beginning of
 
 One of my persistent interests is learning about how countries develop. Our living standards have risen greatly, in some countries within the last couple of decades (Korea and China), many-fold. With this economic surplus comes stability and a better life for all citizens of a country, and many interesting things to talk about: K-pop, K-dramas, new better consumer brands, scientific research results. But more basic than that, economics development is also a robust tool for poverty alleviation.
 
-I like the way a few economic historians talk about it in particular: Fukuyama, Solow, Douglass North.
+I like the way a few economic historians talk about it in particular: Fukuyama, Solow, Douglass North. North talks about [institutions](https://www.aeaweb.org/articles?id=10.1257%2Fjep.5.1.97). Fukuyama talks about [state capacity](https://muse.jhu.edu/article/54670). Solow talks about [capital stock](https://www.jstor.org/stable/1926047). The common thread between them is the question of what prerequisites present at t=0 are necessary and sufficient to make a country grow, once you press play.
 
-North talks about [institutions](https://www.aeaweb.org/articles?id=10.1257%2Fjep.5.1.97). Fukuyama talks about [state strength](https://muse.jhu.edu/article/54670). Solow talks about [capital stock](https://www.jstor.org/stable/1926047). The common thread between them is the question of what prerequisites present at t=0 are necessary and sufficient to make a country grow, once you press play.
 
 Here is a simplified model:
 
-1. the way out of poverty since the industrial revolution has been a functioning market economy.
+1. the way out of poverty since the industrial revolution has been a functioning market economy, one that manufactures.
 
 2. markets need a certain level of state capacity to function. This includes assurances like property rights and rule of law, and some infrastructure like roads. [growth-promoting, inclusive institutions]
 
@@ -32,14 +31,11 @@ Here is a simplified model:
 
 
 ---
-aside: resource cursed countries without stable institutions.
-
-The flip side : resource cursed countries.
+Resource cursed countries often don't evolve state capacity. 
 
 ---
 
-State capacity describes the ability of a state to collect taxes, enforce law and order, and provide public goods [banks, trade ministries, courts], and services like education, public health, infrastructure. More abstracted, it means governance ability and some fiscal slack. The observable effects of "having state capacity" are that the state can begin to invest in revenue-generating activities. Roads, power, rail, a labour force with basic skills. With this basic level of competency at governance, the state can then invest in incentivising companies to form and for those companies to compete against each other, following the state's incentives, forming an industrial base. https://ia902902.us.archive.org/33/items/in.ernet.dli.2015.147391/2015.147391.Economic-Backwardness-In-Historical-Perspective.pdf
-
+State capacity describes the ability of a state to collect taxes, enforce law and order, and provide public goods [banks, trade ministries, courts], and services like education, public health, infrastructure. More abstracted, it means governance ability and some fiscal slack. The observable effects of "having state capacity" are that the state can begin to invest in revenue-generating activities. Roads, power, rail, a labour force with basic skills. With this basic level of competency at governance, firms are possible to form and if an open, competitive environment is maintained, those companies would compete against each other, in the process creating an industrial base. https://ia902902.us.archive.org/33/items/in.ernet.dli.2015.147391/2015.147391.Economic-Backwardness-In-Historical-Perspective.pdf
 
 The takeaway is that there are a set of fundamental things upstream of having an effective economy that must be set up, or else good things don't happen.
 
@@ -50,26 +46,26 @@ Imagine if you were a student studying for a set of exams. Let's work backwards 
 
 1. The way to ace exams is 80% accounted for by learning to the test.
 
-2. learning to the test requires the student repeatedly spending time and effort to memorize relevant material being tested. The student needs free time and energy in order to do this.
+2. learning to the test requires the student repeatedly spending time and effort to memorize relevant material being tested. The student needs free time and energy in order to do this, of which there is limited per day.
 
-3. With good planning and skills aquisition, the student can compress the time and effort needed by other parts of her life, in order to free up time and energy to study. She has to do this ahead of time, because  some of these investments take an amount of time and energy that directly hurts her bottom line of how much she can put towards studying daily. 
-
-You cannot industrialise without roads and semi-reliable power; it's very difficult to learn to cook if cooking takes 5 hours due to a cascade of missing groceries and tools.
+3. With good planning and skills aquisition, the student can compress the time and effort needed by other parts of her life, in order to free up time and energy to study. She has to do this ahead of time, because  some of these investments take an amount of time and energy that directly hurts her bottom line of how much she can put towards studying each day. For example, it's very difficult to learn to cook if cooking takes 3 hours due to missing ingredients and tools and not knowing how to cut vegetables.
 
 
+Can we work out a mutually exclusive, collectively exaustive set of factors for the student to cover (Even if emperically)? In general, it's short-term worries over long-term worries. To have food takes time and effort (whether via money, travel, or preparation time), using up a part of the day and, even if slightly unpredictable, adds a tiny part of stress to the day.
 
-Can we work out a mutually exclusive, collectively exaustive set of factors for the student to cover (Even if emperically)? Let's try to.
+Time discounting is the basic mechanism by which stress and tiredness acts on ability to settle down and study. More stress means lower time horizon and higher discounting meaning less motivation for long-term investments (like studying is). Ways to diminish this effect including as well as reducing ongoing stress by streamlining other activities [PREREQUISITES], as well as making studying an activity with a very small time delay to payoff [MOTIVATION] (which we will talk about in the next part of this series).
 
--> no more basic concerns: hunger, stress, restedness
--> All the rest of the factors that go into "effort" and "time" I'm going to classify as the "foundations" to achieving what you want in education.
+There are generally ways to transmute stressors into other types of stressors. For example, if hunger is a current stressor, there are options to use different amounts of time or money to acquire food, transmuting a need for food to a need for time, energy or money.
+
+
 
 Now we have an equivalent (if simplified) of the prerequisites that are needed to succeed in studies.
 
-Time and energy savings (from abstraction and practice of recurring tasks) will increase fiscal capacity. Enforcement mechanisms will increase legal capacity.
+Time and energy savings (from abstraction and practice of recurring tasks) will increase personal executive capacity.
 
 
 
-Time discounting is the more general mechanism by which stress and tiredness acts on ability to settle down and study. More stress means lower time horizon and higher discounting meaning less motivation for long-term investments (like studying is). Ways to diminish this effect including as well as reducing ongoing stress by streamlining other activities [PREREQUISITES], as well as making studying an activity with a very small time delay to payoff [MOTIVATION] (which we will talk about in the next part of this series).
+Enforcement mechanisms will increase legal capacity. [MOTIVATION]
 
 
 
