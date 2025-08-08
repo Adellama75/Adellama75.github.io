@@ -51,28 +51,26 @@ Imagine if you were a student studying for a set of exams. Let's work backwards 
 3. With good planning and skills aquisition, the student can compress the time and effort needed by other parts of her life, in order to free up time and energy to study. She has to do this ahead of time, because  some of these investments take an amount of time and energy that directly hurts her bottom line of how much she can put towards studying each day. For example, it's very difficult to learn to cook if cooking takes 3 hours due to missing ingredients and tools and not knowing how to cut vegetables.
 
 
-Can we work out a mutually exclusive, collectively exaustive set of factors for the student to cover (Even if emperically)? In general, it's short-term worries over long-term worries. To have food takes time and effort (whether via money, travel, or preparation time), using up a part of the day and, even if slightly unpredictable, adds a tiny part of stress to the day.
+Can we work out a mutually exclusive, collectively exaustive set of factors for the student to cover? In general, it's short-term worries over long-term worries. To have food takes time and effort (whether via money, travel, or preparation time), using up a part of the day and, even if slightly unpredictable, adds a some amount of stress to the day.
 
-Time discounting is the basic mechanism by which stress and tiredness acts on ability to settle down and study. More stress means lower time horizon and higher discounting meaning less motivation for long-term investments (like studying is). Ways to diminish this effect including as well as reducing ongoing stress by streamlining other activities [PREREQUISITES], as well as making studying an activity with a very small time delay to payoff [MOTIVATION] (which we will talk about in the next part of this series).
+Time discounting is the basic mechanism by which stress and tiredness acts on ability to settle down and study. More stress means lower time horizon and higher discounting meaning less motivation for long-term investments (like studying is). Ways to diminish this effect (as well as reducing ongoing stress) include streamlining other activities [PREREQUISITES] and making studying an activity with a very small time delay to payoff [MOTIVATION].
 
-There are generally ways to transmute stressors into other types of stressors. For example, if hunger is a current stressor, there are options to use different amounts of time or money to acquire food, transmuting a need for food to a need for time, energy or money.
-
-
-
-Now we have an equivalent (if simplified) of the prerequisites that are needed to succeed in studies.
-
-Time and energy savings (from abstraction and practice of recurring tasks) will increase personal executive capacity.
+There are generally ways to transmute stressors into other types of stressors. For example, if hunger is a current stressor, there are options to use different amounts of time or money to acquire food, transmuting a need for food to a need for time, effort or money. Everything outside of motivation could be reduced, in my thinking, to one of time, effort and money (none of which are infinite). 
 
 
 
-Enforcement mechanisms will increase legal capacity. [MOTIVATION]
+Now we have an equivalent (if simplified) of the prerequisites that are needed to succeed in studies. Time and energy savings (from abstraction and practice of recurring tasks) will increase personal executive capacity.
+
+
+
+Enforcement mechanisms, when they are set up, will increase [MOTIVATION].
 
 
 
 ### My Experience
 Do I have these foundations?
 
-A year ago, not necessarily. Right now, yes! We have increased state capacity, by a lot.
+A year ago, not necessarily. Right now, yes! We have increased personal capacity, by a lot.
 
 1. a human needs a set of foundations to sustain itself and generate enough slack that can be reinvested into education and skills practice. These two are seperate but connected. motivation is the causal mechanism of this: stress means less motivation to invest in the future, and more motivation to fix things now.
 
@@ -80,27 +78,20 @@ I have been a resource cursed person. Finding early and middle education easy is
 
 What things have I accumulated since last year?
 
-- ability to make food (causes a lot less stress now) == stability, reduced reliance on aid
+- ability to make food (causes a lot less stress now)
 
-- a stable sleep routine (pharmaceutically assisted) == stable, planned maintenance for uptime
-	-> we fixed it my temporarily going on sleep meds, for a couple of months, and coming off them.
-- ability to maintain a comfortable working space (hygiene and maintanence) == stable, ongoing maintenance of hard infrastructure for reliability
-
+- a stable sleep routine (pharmaceutically assisted) -> we fixed it my temporarily going on sleep meds, for a couple of months, and coming off them.
+- ability to maintain a comfortable working space (hygiene and maintanence)
 - ability to live with others (how to interact with them)
-
-- friends to help me with being emotionally regulated and available to study - reducing bad emotional variance. == disaster management capacity
-
+- friends to help me with being emotionally regulated and available to study - reducing bad emotional variance
 - a better general direction in terms of awareness of skills and working roles. Models like Anson Yu, Hudzah, and friends like Yoyo and Fish
-
 - better at feeling comfortable in public and in presentations (grooming, clothes) - ability to negotiate and trade with the wider world
-- financial clarity and security (family situation finally becoming stable and me being aware of it)
-
 
 
 almost there:
 - exercise
 - self-built system to process notes (put them into a standard format)
-- task monitoring and priorotisation software (with the points)
+- task monitoring and priorotisation software (with points as real rewards)
 
 
 "long-term goals will no longer get vetoed by short-term crises." there will be less variation on output ability.
