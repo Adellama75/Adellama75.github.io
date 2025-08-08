@@ -20,16 +20,7 @@ One of my persistent interests is learning about how countries develop. Our livi
 
 I like the way a few economic historians talk about it in particular: Fukuyama, Solow, Douglass North.
 
-North talks about institutions. 
-[developing countries needs stable institutions for development] 
-
-Fukuyama talks about state capacity.
-[State-Building: Governance and World Order in the 21st Century - Fukuyama ]
-
-Solow talks about capital stock.
-[developing countries need power, water and roads. Without these factors, places do not develop.]
-
-The common thread between them is that they have theories for what prerequisites present at t=0 are necessary and sufficient to make a country grow, once you press play.
+North talks about [institutions](https://www.aeaweb.org/articles?id=10.1257%2Fjep.5.1.97). Fukuyama talks about [state strength](https://muse.jhu.edu/article/54670). Solow talks about [capital stock](https://www.jstor.org/stable/1926047). The common thread between them is the question of what prerequisites present at t=0 are necessary and sufficient to make a country grow, once you press play.
 
 Here is a simplified model:
 
