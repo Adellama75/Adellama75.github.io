@@ -119,21 +119,6 @@ i’m requesting a one-year deferral because i need to trade a short, known dela
 
 
 
----
-
-SECOND DRAFT:
-
-Written for university department admissions tutor.
-
-**GROUND ABSTRACT CONCEPTS WITH EXAMPLES**
-use concrete analogy on JUST HOW BAD missing sleep screws a person; if relevant, compare (loosely) to component defects in engineering systems. lean into specifics + humor. 
-
-Explain it for newcomers to both fields. make it clear that I am organizing my thinking this way because int'l development is the one closest area I know and care about, even if it's not relevant to chemical engineering intuitively.
-
-
-
-
-
 further: 
 - https://www.strangeloopcanon.com/p/rest
 - https://worksinprogress.co/issue/the-maintenance-race/
