@@ -43,7 +43,7 @@ The takeaway is that there are a set of fundamental things upstream of having an
 
 Imagine if you were a student studying for a set of exams. Let's work backwards to find the equivalent mechanistic list of things that a student would need to get an A in the exams. 
 
-1. The way to ace exams is 80% accounted for by learning to the test.
+1. The way to ace exams is 80% accounted for by learning to the test. [citation?] [also personal correspondence with father]
 
 2. learning to the test requires the student repeatedly spending time and effort to memorize relevant material being tested. The student needs free time and energy in order to do this, of which there is limited per day.
 
@@ -51,6 +51,9 @@ Imagine if you were a student studying for a set of exams. Let's work backwards 
 
 
 Can we work out a mutually exclusive, collectively exaustive set of factors for the student to cover? In general, it's short-term worries over long-term worries. To have food takes time and effort (whether via money, travel, or preparation time), using up a part of the day and, even if slightly unpredictable, adds a some amount of stress to the day.
+
+Time Horizons
+---
 
 Time discounting is the basic mechanism by which stress and tiredness acts on ability to settle down and study. More stress means lower time horizon and higher discounting meaning less motivation for long-term investments (like studying is). Ways to diminish this effect (as well as reducing ongoing stress) include streamlining other activities [PREREQUISITES] and making studying an activity with a very small time delay to payoff [MOTIVATION].
 
