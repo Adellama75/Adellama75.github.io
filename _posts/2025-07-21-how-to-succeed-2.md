@@ -16,6 +16,9 @@ china's state directed investment policy over decades.
 
 hamilton's protectionism
 
+joining a big competitive market (eu accession) which imports discipline: czechia/poland/slovakia/etc. saw large productivity gains after single-market entry via trade, fdi, and tougher competition/standards—basically export discipline without a heavy industrial-policy whip. [THIS COMES LATER AFTER DOMESTIC
+
+
 
 ### Micromanaging Motivation
 
