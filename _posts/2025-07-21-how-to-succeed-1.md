@@ -21,22 +21,17 @@ I like the way a few economic historians talk about it in particular: Fukuyama, 
 
 Here is a simplified model:
 
-1. The way out of poverty since the industrial revolution has been a functioning market economy - one that manufactures.
+1. The way out of poverty since the industrial revolution has been a functioning market economy - one that manufactures. [solow] Make stuff. Pile up tools (capital) and copy frontier tech → productivity jumps.
 
-2. Markets need a certain level of state capacity to function. This includes assurances like property rights and rule of law, and some infrastructure like roads. 
+2. A market need certain assurances to function. This includes implementing property rights and rule of law, and having honouring these be the default operating mode of business. Businesses are difficult to operate and grow where theft is common and contracts are not honoured when inconvenient. [north]
 
-3. The state is normally the one who sets up those conditions: enforcing property rights and rule of law, and providing public goods. So that firms do not have to worry about who is providing a court of arbitrage, protect them against robbery, or public goods like a worker base and roads.
-
-
-
-What does "state capacity" mean? State capacity describes the ability of a state to collect taxes, enforce law and order, and provide [public goods](https://www.investopedia.com/terms/p/public-good.asp) and services like education, public health, infrastructure. More abstracted, it means governance ability and some fiscal slack. The observable effects of "having state capacity" are that the state can begin to invest. Roads, power, rail, a labour force with basic skills. With a basic level of competency at governance, firms are possible to form and if an environment with consistent export pressure is maintained, firms will respond to the incentives to up their productivity, and in the process [create an industrial base](https://ia902902.us.archive.org/33/items/in.ernet.dli.2015.147391/2015.147391.Economic-Backwardness-In-Historical-Perspective.pdf). 
+3. A capable, clean state is the one who needs to make these assurances: enforcing property rights and rule of law, and investing in [public goods](https://www.investopedia.com/terms/p/public-good.asp). The state, with fiscal capacity, is well-placed for kickstarting the cycle of capital accumulation - investing in roads, ports, power plants, educating its workers. [fukuyama]
 
 
-
-On the flip side, resource cursed countries often don't evolve state capacity. 
-
+With a basic level of competency at governance, firms are possible to form and if an environment with consistent export pressure is maintained, firms will respond to the incentives to up their productivity, and in the process [create an industrial base](https://ia902902.us.archive.org/33/items/in.ernet.dli.2015.147391/2015.147391.Economic-Backwardness-In-Historical-Perspective.pdf). 
 
 
+On the flip side, resource cursed countries often don't evolve state capacity. This is because of a lack of functional, clean institutions. (surpluses are not reinvested but absorbed).
 
 
 
