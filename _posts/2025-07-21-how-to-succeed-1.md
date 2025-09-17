@@ -1,117 +1,104 @@
 ## Foundations
 
-A necessary prerequisite of a market economy before it can industrialise is state capacity - meaning the ability of a government to enforce laws and collect taxes. The taxes collected goes to fund enforcement of laws (like contracts and property rights) as well as public goods - like roads, power, water, and public education. 
+A necessary prerequisite of a market economy before it can industrialise is state capacity - meaning the ability of a government to enforce laws and collect taxes. These taxes go to fund enforcement of laws (like contracts and property rights) as well as public goods - like roads, power, water, and public education. 
 
-These are prerequisites because it allows smaller businesses to not worry about the provision of these services at scale, whose benefit is diffuse and which they cannot individually fully enjoy. If provided to a sufficient quality and quantity, the provision of these services can be "abstracted away" from businesses to the state.
-
+These are prerequisites to industrialisation because it allows smaller businesses to not worry about the provision of these services at scale, whose benefit is diffuse and which they cannot individually fully enjoy. If provided to a sufficient quality and quantity, these services can be "abstracted away" from businesses to the state.
 
 There are also prerequisites to being effectively educated, on an individual student level. (of course, individuals can buck the trend, but that doesn't stop these prerequisites from being needed in the statistical sense.) For a student, these include reliable access to food, water, shelter and healthcare that prevents debilitation and minimises the impact of existing conditions on ability to study. In my view, these are like the overhead items provided by the state for firms - things that are necessary to have, but too complicated to reinvent for each individual in the day-to-day, and allows them to be resilient against setbacks.
 
-After that, a student (given they are at least average smart) only needs a couple of course-related things: reliable access to notes to learn from, mock tests to study to, and often field-specific software (simulation, version control software) - to be fully effective in meeting requirements.
+After that, a student (given they are at least average smart) only needs some course-related materials: reliable access to notes to learn from, mock tests to study to, and often field-specific software (simulation, version control software) - to be fully effective in meeting requirements.
 
 While not realising it, I lacked many of these prerequisites at the beginning of the last year, but I have since been gaining them at a steady pace, and am en route to having all of them by October 2026. I firmly believe it's not magic that determines whether someone fails or succeeds at a given task, just prerequisites we can mark and kill with time and the correct procedures followed.
 
 
 ### State Capacity
 
-One of my persistent interests is learning about how countries develop. Our living standards have risen greatly, in some countries many-fold within the last couple of decades (Korea and China). With this economic surplus comes stability and a better life for everyone, and many interesting things: K-pop, K-dramas, new better consumer brands, scientific research results. But more basic than that, economic development is a robust tool for poverty alleviation.
+One of my persistent interests is learning about how countries develop. Our living standards have risen greatly, in some countries doubled/tripled within the last couple of decades (Korea and China). With this economic surplus comes stability and a better life for everyone, and many interesting things: [K-pop](https://www.bbc.co.uk/news/articles/c1kz12v08l1o), K-dramas, new better consumer brands, scientific research results. But more basic than that, economic development is a robust tool for [poverty alleviation](https://www.worldbank.org/en/news/press-release/2022/04/01/lifting-800-million-people-out-of-poverty-new-report-looks-at-lessons-from-china-s-experience).
 
 I like the way a few economic historians talk about it in particular: Fukuyama, Solow, Douglass North. North talks about [institutions](https://www.aeaweb.org/articles?id=10.1257%2Fjep.5.1.97). Fukuyama talks about [state capacity](https://muse.jhu.edu/article/54670). Solow talks about [capital stock](https://www.jstor.org/stable/1926047). The common thread between them is the question of what prerequisites present at t=0 are necessary and sufficient to make a country grow, once you press play.
 
 
 Here is a simplified model:
 
-1. The way out of poverty since the industrial revolution has been a functioning market economy - one that manufactures. [solow] Make stuff. Pile up tools (capital) and copy frontier tech → productivity jumps.
+1. The way out of poverty since the industrial revolution has been a functioning market economy - one that manufactures. [Solow] To make stuff, you need a pile of tools (accumulated capital) and to copy frontier technology. When you make a whole set (unbalanced growth, industrial blocks), productivity moves to a higher equilibrium in that whole vertical.
 
-2. A market need certain assurances to function. This includes implementing property rights and rule of law, and having honouring these be the default operating mode of business. Businesses are difficult to operate and grow where theft is common and contracts are not honoured when inconvenient. [north]
+2. However, markets only work under a certain set of conditions - when rules are credible. north: property rights, contract enforcement, low theft, predictable courts. Without that, companies that operate within the market stay small or die, because the inherent uncertainty in doing business cannot be managed. [North]
 
-3. A capable, clean state is the one who needs to make these assurances: enforcing property rights and rule of law, and investing in [public goods](https://www.investopedia.com/terms/p/public-good.asp). The state, with fiscal capacity, is well-placed for kickstarting the cycle of capital accumulation - investing in roads, ports, power plants, educating its workers. [fukuyama]
+3. Who guarantees the rules? A capable, non-corrupt, and constrained state. fukuyama: build state capacity (tax, cops/courts, bureaucracy) and lay the boring foundations — roads, ports, power, schools — i.e., [public goods](https://www.investopedia.com/terms/p/public-good.asp) (non-excludable, non-rival). that’s how you kick off capital accumulation and keep the flywheel spinning. [fukuyama]
 
+On the flip side, resource cursed countries often don't evolve state capacity. This is because of a lack of functional, non-corrupt institutions. (surpluses are not reinvested in state capacity, but used in internal repression and the rest siphoned away). 
 
-With a basic level of competency at governance, firms are possible to form and if an environment with consistent export pressure is maintained, firms will respond to the incentives to up their productivity, and in the process [create an industrial base](https://ia902902.us.archive.org/33/items/in.ernet.dli.2015.147391/2015.147391.Economic-Backwardness-In-Historical-Perspective.pdf). 
-
-
-On the flip side, resource cursed countries often don't evolve state capacity. This is because of a lack of functional, clean institutions. (surpluses are not reinvested but absorbed).
-
-
-
-
-The takeaway is that there are a set of fundamental things upstream of having an effective economy that must be set up, or else good things don't happen and countries don't develop.
+The takeaway is that there are a set of fundamental things upstream of having an effective economy - some level of institutions, capital and trust - that must be set up, or else countries don't develop.
 
 
 ### The Maintenance Race
 
-Imagine if you were a student studying for a set of exams. Let's work backwards to find the equivalent mechanistic list of things that a student would need to get an A in the exams. 
+Imagine if you were a student studying for a set of exams. Let's work backwards to find the equivalent minimal set of things that a student would need to get an A in the exams. 
 
-1. The way to ace exams is 80% accounted for by learning to the test. [citation?] [also personal correspondence with father]
+1. The way to ace exams is ~80% accounted for by learning to the test. [personal correspondance]
 
 2. learning to the test requires the student repeatedly spending time and effort to memorize relevant material being tested. The student needs free time and energy in order to do this, of which there is limited per day.
 
-3. With good planning and skills aquisition, the student can compress the time and effort needed by other parts of her life, in order to free up time and energy to study. She has to do this ahead of time, because  some of these investments take an amount of time and energy that directly hurts her bottom line of how much time and energy she can put towards studying each day. For example, it's very difficult to learn to cook if cooking takes 3 hours due to missing ingredients and tools and unfamiliarity with cutting vegetables.
+3. With good planning and skills aquisition, the student can compress the time and effort needed by other parts of her life, in order to free up time and energy to study. She has to do this ahead of time, because  some of these investments take an amount of time and energy that directly hurts her bottom line of how much she can put towards studying each day. For example, it's very difficult to learn to cook if cooking takes 3 hours due to missing ingredients and tools and unfamiliarity with cutting vegetables.
 
+Can we work out a mutually exclusive, collectively exaustive set of factors for the student to cover? In general, it's short-term worries over long-term worries. To have food takes time and effort (whether via money, travel, or preparation time), using up a part of the day and, even if slightly unpredictable, adds a certain amount of stress to the day.
 
-Can we work out a mutually exclusive, collectively exaustive set of factors for the student to cover? In general, it's short-term worries over long-term worries. To have food takes time and effort (whether via money, travel, or preparation time), using up a part of the day and, even if slightly unpredictable, adds a some amount of stress to the day.
-
-Time Horizons
+Aside 1: Time Horizons
 ---
 
 Time discounting is the basic mechanism by which stress and tiredness acts on ability to settle down and study. More stress means lower time horizon and higher discounting meaning less motivation for long-term investments (like studying is). Ways to diminish this effect (as well as reducing ongoing stress) include streamlining other activities [PREREQUISITES] and making studying an activity with a very small time delay to payoff [MOTIVATION].
 
-There are generally ways to transmute stressors into other types of stressors. For example, if hunger is a current stressor, there are options to use different amounts of time or money to acquire food, transmuting a need for food to a need for time, energy or money. Everything more complicated but defined such as "access to healthcare" could be reduced, in my opinion, to a mix of time, energy and money (which are interchangable to an extent, while none of which are infinite). 
+There are generally ways to transmute stressors into other types of stressors. For example, if hunger is a current stressor, there are options to use different amounts of time or money to acquire food, transmuting a need for food to a need for time, energy or money. More complicated stressors such as "access to healthcare" could be reduced, in my opinion, to a mix of time, energy and money (which are interchangable to an extent, while all are limited). 
+
+A human needs a set of foundations to sustain itself and generate enough slack from these stressors that can be recurringly reinvested into education and skills practice. These two are seperate but connected. Motivation is the causal mechanism of this: stress means less motivation to invest in the future, and more motivation to fix things now. However, good foundations, through addressing these stressors efficiently, allow recurring slack generation and therefore (with motivation) daily skills practice predictable.
+
+When the time-delayed reward of studying > time-delayed reward of addressing any other short-horizon issue, a student will study (this is true for any activity).
+
+---
 
 Now we have an equivalent (if simplified) set of the fundamental things that are needed to succeed in studies. Time and energy savings (from abstraction and practice of recurring tasks) will increase personal executive capacity. For our special case, money can be assumed to be held constant, but still not infinite, through parental transfers.
-
 
 
 ### My Experience
 Do I have these foundations?
 
-A year ago, not necessarily. Right now, yes! We have increased personal capacity, by a lot.
+A year ago, not necessarily. Right now, yes! I have increased personal capacity, by a lot.
 
-1. a human needs a set of foundations to sustain itself and generate enough slack that can be reinvested into education and skills practice. These two are seperate but connected. motivation is the causal mechanism of this: stress means less motivation to invest in the future, and more motivation to fix things now.
 
-I have been a resource cursed person. Finding early and middle education surprisingly easy is not naturaly amenable to developing functioning governing institutions (healthy and functional habits). But rent-seeking is not a sustainable mode of operation, and I am working on reinvent myself to be good at the tasks I am asked to perform today, and stay competitive.
+I have been a resource cursed person. Finding early and middle education surprisingly easy is not naturaly amenable to developing functioning governing institutions (healthy and functional habits), and instead seek rent from my natural endowment of cleverness and rule learning ability. But rent-seeking is not a sustainable mode of operation, and I am working on reinvent myself to be good at the tasks I am asked to perform today, and stay competitive. To learn to learn, which means to learn to manage time for recurrent, targeted practice sessions, at whichever subject I am asked to do so.
 
-What things have I accumulated since last year?
+I have been gaining these foundations, listed below, at a reliable rate. A year ago, I didn't have any of this, and made enough mistakes to learn how to solve them. What real things have I accumulated since last year? 
 
 - ability to make food (causes a lot less stress now)
-
 - a stable sleep routine (pharmaceutically assisted) -> we fixed it my temporarily going on sleep meds, for a couple of months, and coming off them.
 - ability to maintain a comfortable working space (hygiene and maintanence)
 - ability to live with others (how to interact with them)
 - friends to help me with being emotionally regulated and available to study - reducing bad emotional variance
 - a better general direction in terms of awareness of skills and working roles. Models like Anson Yu, Hudzah, and friends like Yoyo and Fish
-- better at feeling comfortable in public and in presentations (grooming, clothes) - ability to negotiate and trade with the wider world
-
+- better at feeling comfortable in public and in presentations (grooming, clothes) - i.e. an ability to negotiate and trade with the wider world
 
 almost there:
-- exercise
-- self-built system to process notes (put them into a standard format)
+- ability to get reliable exercise
+- self-built system to process notes (by putting them into a standard format)
 
+task monitoring and priorotisation software (with points as real rewards) and related enforcement mechanisms, when they are set up, will increase my [MOTIVATION] which increases the energy available for a wide range of tasks (one of the three factors used to relieve stress, like time or money).
 
-
-task monitoring and priorotisation software (with points as real rewards) and related enforcement mechanisms, when they are set up, will increase [MOTIVATION] which increases the energy available for a task (not time or money).
-
-
-"long-term goals will no longer get vetoed by short-term crises." there will be less variation on output ability.
-
-I've raised state capacity. that translates straight into:
+So I've raised state capacity. that translates straight into:
 - lower marginal cost of one deep‑work hour
 - bigger slack buffer I can reinvest in upskilling
 - stable, linear slack that is generated again and again.
 
-all of this mean you should expect me to perform at a much higher baseline rate, in my next year in university.    
-
-I have been gaining these foundations at a reliable rate, including having most of them already, compared  to a year ago. A year ago, I didn't have any of this, and made enough mistakes to learn how to solve them.
+In the end, I expect (with evidence) that my long-term goals will no longer get vetoed by short-term crises. There will be less variation on output ability, which means more reliable recurring practice, which means higher learning and exam results. This mean you should expect me to perform at a much higher baseline rate, in my next year in university.
 
 
-###
 
+Aside 2: Chemical Plants
+---
 Chemical Plants operate on a 3-7 year shutdown cycle. 
 
 CAPEX and shut-off of large chemical processing complexes. Which plants have been treated this way before? Have any been retrofitted and came back online much much better, despite the cost of shutdown and missed production? How did it get retrofitted?
 
-
+---
 
 TL;DR:
 """
@@ -119,8 +106,7 @@ i’m requesting a one-year deferral because i need to trade a short, known dela
 """
 
 
-
-
 further: 
+- https://sticerd.lse.ac.uk/_new/publications/books/pillars-of-prosperity/ 
 - https://www.strangeloopcanon.com/p/rest
 - https://worksinprogress.co/issue/the-maintenance-race/
