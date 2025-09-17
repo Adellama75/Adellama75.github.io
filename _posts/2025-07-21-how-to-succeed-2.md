@@ -10,13 +10,13 @@ The fact that a firm only cares about itself in the short and medium term is how
 
 
 How Asia Works - book review
-korea and export discipline
-china's state directed investment policy over decades.
+Korea and export discipline
+China's state directed investment policy over decades.
 
 
-hamilton's protectionism
+Hamilton's protectionism
 
-joining a big competitive market (eu accession) which imports discipline: czechia/poland/slovakia/etc. saw large productivity gains after single-market entry via trade, fdi, and tougher competition/standards—basically export discipline without a heavy industrial-policy whip. [THIS COMES LATER AFTER DOMESTIC
+Joining a big competitive market (eu accession) which imports discipline: czechia/poland/slovakia/etc. saw large productivity gains after single-market entry via trade, fdi, and tougher competition/standards—basically export discipline without a heavy industrial-policy whip. [THIS COMES LATER AFTER DOMESTIC]
 
 
 
@@ -35,17 +35,14 @@ Adults don't JUST care about the short-term future, but they also have time disc
 Given we are motivating adults, what are the things that are missing?
 
 >> what am I missing?
->> missing having learnt the utility of basic studying (no practical outcome difference gradient in the past. I was perfectionist, and that has worked up to now.)
+>> missing having learnt the utility of basic studying (no practical outcome difference gradient in the past. I was neurotically / autistically perfectionist, and that has worked up to last year.)
 >> missing having learnt useful methods of basic studying (the specific "task breaking down" and repeated drilling system I'm working on now)
 
-https://slatestarcodex.com/2015/01/31/the-parable-of-the-talents/
-https://meltingasphalt.com/personality-the-body-in-society/
 
 
 paying kids to study (alpha school)
 -> never learnt to associate studying as reward -> solution: make an external reward system until i figure out it should be rewarding from the successes at drill-time
 -> never figureded out how to study -> make a system that drills me, semi-automatically, the less the unit cost to work it the better.
-
 
 
 utility as log (incentives)
@@ -55,3 +52,9 @@ immediate, specific rewards.
 modelling self as a system 1 reinforcement learning agent.
 
 Goal: I am NEVER FAILING AGAIN.
+
+
+
+further:
+https://slatestarcodex.com/2015/01/31/the-parable-of-the-talents/
+https://meltingasphalt.com/personality-the-body-in-society/
