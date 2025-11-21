@@ -14,15 +14,8 @@ Models that I think more people could use.
 
 ### **Social**
 - [How Bad Are Things?](https://slatestarcodex.com/2015/12/24/how-bad-are-things/) – Slate Star Codex 
-- [A Thrive/Survive Theory of the Political Spectrum](https://slatestarcodex.com/2013/03/04/a-thrivesurvive-theory-of-the-political-spectrum/) – Slate Star Codex  
 - [The Evolution of Trust](https://ncase.me/trust/) – Nicky Case  
 
----
-
-### **Personal**
-- [Personality: The Body in Society](https://meltingasphalt.com/personality-the-body-in-society/) – Melting Asphalt  
-- [The Talk: A Brief Explainer of Sexual Dimorphism](https://malmesbury.substack.com/p/the-talk-a-brief-explainer-of-sexual) – Telescopic Turnip  
-- [The Categories Were Made for Man, Not Man for the Categories](https://slatestarcodex.com/2014/11/21/the-categories-were-made-for-man-not-man-for-the-categories/) – Slate Star Codex
 
 ---
 
